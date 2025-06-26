@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FOEventTicketIssuance</RootNamespace>
+    <AssemblyName>FOEventTicketIssuance</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>casino-transactions.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.5.0.0\lib\net35\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FOEventTicketDataSource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FOEventTicketDataSource.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_small_icon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_small_icon.Designer.cs">
+      <DependentUpon>frm_small_icon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="glidetween\Ease.cs" />
+    <Compile Include="glidetween\GlideInfo.cs" />
+    <Compile Include="glidetween\Lerper.cs" />
+    <Compile Include="glidetween\Tween.cs" />
+    <Compile Include="glidetween\Tweener.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\TransactionDataSet.cs">
+      <DependentUpon>TransactionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\TransactionDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TransactionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Support\PlayerInfo.cs" />
+    <Compile Include="FOEventTicketIssuance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FOEventTicketIssuance.Designer.cs">
+      <DependentUpon>FOEventTicketIssuance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Support\EncryptionHelper.cs" />
+    <Compile Include="Support\Function.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="FOEventTicketDataSource.xsc">
+      <DependentUpon>FOEventTicketDataSource.xsd</DependentUpon>
+    </None>
+    <None Include="FOEventTicketDataSource.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FOEventTicketDataSource.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FOEventTicketDataSource.xss">
+      <DependentUpon>FOEventTicketDataSource.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\FOEventTicketIssuanceImg.png" />
+    <None Include="Resources\FOEventTicketIssuanceImg1.png" />
+    <None Include="Resources\%24this.Icon.ico" />
+    <Content Include="Resources\FOEventTicketIssuance.ico" />
+    <None Include="Reports\TransactionDataSet.xsc">
+      <DependentUpon>TransactionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\TransactionDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TransactionDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\TransactionDataSet.xss">
+      <DependentUpon>TransactionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\casino transactions 64x64.png" />
+    <None Include="Resources\up.png" />
+    <None Include="Resources\down.png" />
+    <None Include="Resources\printer.png" />
+    <EmbeddedResource Include="frm_small_icon.resx">
+      <DependentUpon>frm_small_icon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\FOEventTicket.rdlc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FOEventTicketIssuance.resx">
+      <DependentUpon>FOEventTicketIssuance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <Content Include="casino-transactions.ico" />
+    <Content Include="NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <Content Include="icon256.ico" />
+    <Content Include="images\Arrow.png" />
+    <Content Include="images\background.png" />
+    <Content Include="images\breakfast checkin center.jpg" />
+    <Content Include="images\Button submit.png" />
+    <Content Include="images\Checkall.png" />
+    <Content Include="images\checkin.png" />
+    <Content Include="images\Header_bar.png" />
+    <Content Include="images\keyboard\0.png" />
+    <Content Include="images\keyboard\1.png" />
+    <Content Include="images\keyboard\2.png" />
+    <Content Include="images\keyboard\3.png" />
+    <Content Include="images\keyboard\4.png" />
+    <Content Include="images\keyboard\5.png" />
+    <Content Include="images\keyboard\6.png" />
+    <Content Include="images\keyboard\7.png" />
+    <Content Include="images\keyboard\8.png" />
+    <Content Include="images\keyboard\9.png" />
+    <Content Include="images\keyboard\Backspace.png" />
+    <Content Include="images\keyboard\Enter.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\Room number bar.png" />
+    <Content Include="images\uncheckin.png" />
+    <Content Include="redemption.ico" />
+    <None Include="Resources\Delete-icon.png" />
+    <None Include="Resources\guest-xxl.png" />
+    <None Include="Resources\icon1.ico" />
+    <None Include="Resources\icon.ico" />
+    <None Include="Resources\icon96.png" />
+    <None Include="Resources\icon256.png" />
+    <None Include="Resources\Report.png" />
+    <None Include="Resources\Enter.png" />
+    <None Include="Resources\Backspace.png" />
+    <None Include="Resources\9.png" />
+    <None Include="Resources\8.png" />
+    <None Include="Resources\7.png" />
+    <None Include="Resources\6.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PlayerImages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|c:\\users\\nghiad.tran\\desktop\\curent projects\\pospatronimagehtr\\pospatronimage\\pospatronimage\\patronform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|solutionrelative:pospatronimage\\patronform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\pospatronimage\\patronform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|solutionrelative:pospatronimage\\patronform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|c:\\users\\nghiad.tran\\desktop\\curent projects\\pospatronimagehtr\\pospatronimage\\pospatronimage\\patronform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|solutionrelative:pospatronimage\\patronform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\pospatronimage\\support\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|solutionrelative:pospatronimage\\support\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\pospatronimage\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|solutionrelative:pospatronimage\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\pospatronimage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|solutionrelative:pospatronimage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\pospatronimage\\support\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\POSPatronImage.csproj|solutionrelative:pospatronimage\\support\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatronForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\PatronForm.Designer.cs",
+              "RelativeDocumentMoniker": "POSPatronImage\\PatronForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\PatronForm.Designer.cs",
+              "RelativeToolTip": "POSPatronImage\\PatronForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0DAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:46:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\Support\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "POSPatronImage\\Support\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\Support\\EncryptionHelper.cs",
+              "RelativeToolTip": "POSPatronImage\\Support\\EncryptionHelper.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:56:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\app.config",
+              "RelativeDocumentMoniker": "POSPatronImage\\app.config",
+              "ToolTip": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\app.config",
+              "RelativeToolTip": "POSPatronImage\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-22T03:39:37.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatronForm.cs",
+              "DocumentMoniker": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\PatronForm.cs",
+              "RelativeDocumentMoniker": "POSPatronImage\\PatronForm.cs",
+              "ToolTip": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\PatronForm.cs",
+              "RelativeToolTip": "POSPatronImage\\PatronForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:35:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatronForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\PatronForm.cs",
+              "RelativeDocumentMoniker": "POSPatronImage\\PatronForm.cs",
+              "ToolTip": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\PatronForm.cs [Design]",
+              "RelativeToolTip": "POSPatronImage\\PatronForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:21:33.146Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\Support\\Function.cs",
+              "RelativeDocumentMoniker": "POSPatronImage\\Support\\Function.cs",
+              "ToolTip": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\Support\\Function.cs",
+              "RelativeToolTip": "POSPatronImage\\Support\\Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:58:37.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\NLog.config",
+              "RelativeDocumentMoniker": "POSPatronImage\\NLog.config",
+              "ToolTip": "C:\\Users\\nghiad.tran\\Desktop\\Curent Projects\\POSPatronImageHTR\\POSPatronImage\\POSPatronImage\\NLog.config",
+              "RelativeToolTip": "POSPatronImage\\NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T08:36:50.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+2025-06-25 13:25:17.5395 Info Function class initialized successfully. 
+2025-06-25 13:25:17.6542 Info TableTransactions form initialized. 
+2025-06-25 13:27:02.8705 Info Function class initialized successfully. 
+2025-06-25 13:27:02.9770 Info TableTransactions form initialized. 
+2025-06-25 14:43:23.6226 Info Function class initialized successfully. 
+2025-06-25 14:43:23.7151 Info TableTransactions form initialized. 
+2025-06-25 14:43:45.5271 Info Function class initialized successfully. 
+2025-06-25 14:43:45.6173 Info TableTransactions form initialized. 
+2025-06-25 14:47:28.1920 Info Function class initialized successfully. 
+2025-06-25 14:47:28.3470 Info TableTransactions form initialized. 
+2025-06-25 14:50:05.3997 Info Function class initialized successfully. 
+2025-06-25 14:50:05.4810 Info TableTransactions form initialized. 
+2025-06-25 14:50:57.3017 Info Function class initialized successfully. 
+2025-06-25 14:50:57.3690 Info TableTransactions form initialized. 
+2025-06-25 14:51:11.6266 Error An error occurred during the reprint process. System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+   at System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString)
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 160
+2025-06-25 14:51:17.5169 Error An error occurred during the reprint process. System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+   at System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString)
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 160
+2025-06-25 14:51:26.6118 Info Function class initialized successfully. 
+2025-06-25 14:51:26.7176 Info TableTransactions form initialized. 
+2025-06-25 14:51:39.6332 Error An error occurred during the reprint process. System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+   at System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString)
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 160
+2025-06-25 14:52:10.0390 Info Function class initialized successfully. 
+2025-06-25 14:52:10.1377 Info TableTransactions form initialized. 
+2025-06-25 14:52:16.3658 Error An error occurred during the reprint process. System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'InsertNewFOEventTicket'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 166
+ClientConnectionId:b03175e3-4fc6-44b3-8399-eee8eb188fd1
+Error Number:2812,State:62,Class:16 HelpLink.ProdName: Microsoft SQL Server;HelpLink.ProdVer: 15.00.2000;HelpLink.EvtSrc: MSSQLServer;HelpLink.EvtID: 2812;HelpLink.BaseHelpUrl: http://go.microsoft.com/fwlink;HelpLink.LinkId: 20476
+2025-06-25 14:52:27.6476 Error An error occurred during the reprint process. System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'InsertNewFOEventTicket'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 166
+ClientConnectionId:b03175e3-4fc6-44b3-8399-eee8eb188fd1
+Error Number:2812,State:62,Class:16 HelpLink.ProdName: Microsoft SQL Server;HelpLink.ProdVer: 15.00.2000;HelpLink.EvtSrc: MSSQLServer;HelpLink.EvtID: 2812;HelpLink.BaseHelpUrl: http://go.microsoft.com/fwlink;HelpLink.LinkId: 20476
+2025-06-25 14:52:44.2444 Info Function class initialized successfully. 
+2025-06-25 14:52:44.3553 Info TableTransactions form initialized. 
+2025-06-25 14:54:09.8496 Info Function class initialized successfully. 
+2025-06-25 14:54:09.9561 Info TableTransactions form initialized. 
+2025-06-25 14:55:05.8017 Info Function class initialized successfully. 
+2025-06-25 14:55:05.9038 Info TableTransactions form initialized. 
+2025-06-25 14:55:42.3591 Info Function class initialized successfully. 
+2025-06-25 14:55:42.4426 Info TableTransactions form initialized. 
+2025-06-25 14:56:41.8086 Info Function class initialized successfully. 
+2025-06-25 14:56:41.9040 Info TableTransactions form initialized. 
+2025-06-25 14:56:56.6242 Info Function class initialized successfully. 
+2025-06-25 14:56:56.7194 Info TableTransactions form initialized. 
+2025-06-25 14:57:21.5827 Info Function class initialized successfully. 
+2025-06-25 14:57:21.6633 Info TableTransactions form initialized. 
+2025-06-25 14:57:46.5539 Info Function class initialized successfully. 
+2025-06-25 14:57:46.6590 Info TableTransactions form initialized. 
+2025-06-25 14:58:23.7946 Info Function class initialized successfully. 
+2025-06-25 14:58:23.8766 Info TableTransactions form initialized. 
+2025-06-25 15:10:21.5346 Info Function class initialized successfully. 
+2025-06-25 15:10:21.6972 Info TableTransactions form initialized. 
+2025-06-25 15:14:09.7083 Info Function class initialized successfully. 
+2025-06-25 15:14:09.8542 Info TableTransactions form initialized. 
+2025-06-25 15:18:33.9764 Info Function class initialized successfully. 
+2025-06-25 15:18:34.0842 Info TableTransactions form initialized. 

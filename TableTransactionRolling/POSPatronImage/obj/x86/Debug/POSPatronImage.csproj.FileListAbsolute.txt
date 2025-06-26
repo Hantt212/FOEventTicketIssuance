@@ -1,0 +1,56 @@
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe.config
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.pdb
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.fm_Numkey.resources
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Form1.resources
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Form_Key.resources
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.frm_Report.resources
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.frm_small_icon.resources
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.PatronForm.resources
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Properties.Resources.resources
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.GenerateResource.Cache
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.exe
+C:\Projects\POSPatronImage\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.pdb
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe.config
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.exe
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.pdb
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.pdb
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.fm_Numkey.resources
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Form1.resources
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Form_Key.resources
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.frm_Report.resources
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.frm_small_icon.resources
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.PatronForm.resources
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Properties.Resources.resources
+C:\Users\nghiad.tran\Desktop\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.GenerateResource.Cache
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe.config
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.pdb
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.AssemblyReference.cache
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.fm_Numkey.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Form1.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Form_Key.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.frm_Report.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.frm_small_icon.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.PatronForm.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Properties.Resources.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.GenerateResource.cache
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.CoreCompileInputs.cache
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.exe
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageOutlet\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.pdb
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe.config
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.exe
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\bin\Debug\POSPatronImage.pdb
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\bin\Debug\NLog.dll
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\bin\Debug\NLog.xml
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.AssemblyReference.cache
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.frm_small_icon.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.PatronForm.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.Properties.Resources.resources
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.GenerateResource.cache
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.csproj.CoreCompileInputs.cache
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatro.450602EA.Up2Date
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.exe
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\obj\x86\Debug\POSPatronImage.pdb
+C:\Users\nghiad.tran\Desktop\Curent Projects\POSPatronImageHTR\POSPatronImage\POSPatronImage\bin\Debug\NLog.config

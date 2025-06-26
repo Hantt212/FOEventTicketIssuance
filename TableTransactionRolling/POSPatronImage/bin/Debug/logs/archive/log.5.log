@@ -1,0 +1,35 @@
+2024-10-21 13:00:56.7921 Info Function class initialized successfully. 
+2024-10-21 13:00:58.2171 Info TableTransactions form initialized. 
+2024-10-21 13:00:59.5403 Debug Player info and transaction data reset. 
+2024-10-21 13:00:59.5403 Info TableTransactions form loaded. 
+2024-10-21 13:01:04.0490 Debug Player info and transaction data reset. 
+2024-10-21 13:01:04.0490 Info Fetching player information for PlayerID: 1077390 
+2024-10-21 13:01:04.0610 Info Decryption started. 
+2024-10-21 13:01:04.0610 Info Data decrypted successfully. 
+2024-10-21 13:01:04.2289 Info Decryption started. 
+2024-10-21 13:01:04.2289 Info Data decrypted successfully. 
+2024-10-21 13:01:04.2509 Info Successfully retrieved player data for PlayerID from printedTransTable: 1077390. Transaction count: 94 
+2024-10-21 13:01:16.9504 Debug Player info and transaction data reset. 
+2024-10-21 13:01:23.3947 Debug Player info and transaction data reset. 
+2024-10-21 13:01:23.3947 Info Fetching player information for PlayerID: 1077390 
+2024-10-21 13:01:23.3947 Info Decryption started. 
+2024-10-21 13:01:23.3947 Info Data decrypted successfully. 
+2024-10-21 13:01:23.4461 Info Decryption started. 
+2024-10-21 13:01:23.4461 Info Data decrypted successfully. 
+2024-10-21 13:01:23.5571 Info Successfully retrieved player data for PlayerID from printedTransTable: 1077390. Transaction count: 94 
+2024-10-21 13:01:24.1412 Info Decryption started. 
+2024-10-21 13:01:24.1412 Info Data decrypted successfully. 
+2024-10-21 13:01:28.3457 Info Decryption started. 
+2024-10-21 13:01:28.3457 Info Data decrypted successfully. 
+2024-10-21 13:01:28.6023 Info Rendering report for printing. 
+2024-10-21 13:01:29.5843 Info Report rendered successfully. 
+2024-10-21 13:01:30.0379 Info Printing initiated. 
+2024-10-21 13:01:30.0379 Info Print initiated for selected rows, copy 1. 
+2024-10-21 13:01:30.0419 Info Rendering report for printing. 
+2024-10-21 13:01:30.2178 Info Report rendered successfully. 
+2024-10-21 13:01:30.5537 Info Printing initiated. 
+2024-10-21 13:01:30.5537 Info Print initiated for selected rows, copy 2. 
+2024-10-21 13:01:30.5577 Info Rendering report for printing. 
+2024-10-21 13:01:30.6627 Info Report rendered successfully. 
+2024-10-21 13:01:31.0375 Info Printing initiated. 
+2024-10-21 13:01:31.0375 Info Print initiated for selected rows, copy 3. 

@@ -1,0 +1,122 @@
+2025-06-06 16:23:07.0048 Info Function class initialized successfully. 
+2025-06-06 16:23:07.7026 Info TableTransactions form initialized. 
+2025-06-06 16:23:10.6227 Debug Player info and transaction data reset. 
+2025-06-06 16:23:10.6227 Info TableTransactions form loaded. 
+2025-06-06 16:23:20.3930 Debug Player info and transaction data reset. 
+2025-06-06 16:23:20.3930 Info Fetching player information for PlayerID: 10001 
+2025-06-06 16:23:20.3930 Info Decryption started. 
+2025-06-06 16:23:20.4070 Info Data decrypted successfully. 
+2025-06-06 16:23:20.6347 Info Decryption started. 
+2025-06-06 16:23:20.6347 Info Data decrypted successfully. 
+2025-06-06 16:23:20.7087 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:20.7257 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:20.7767 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 7 
+2025-06-06 16:23:24.8009 Info Decryption started. 
+2025-06-06 16:23:24.8009 Info Data decrypted successfully. 
+2025-06-06 16:23:33.1176 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:33.6430 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:34.0201 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:34.3231 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:34.6271 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:35.0354 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:35.6027 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:35.9960 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:36.3954 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:36.8044 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:37.2923 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:37.8272 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:38.2921 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:38.9791 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:39.6282 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:39.9394 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:40.1864 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:41.4443 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:42.6273 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:43.0704 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:43.3904 Info Displayed information for PlayerID: 10001 
+2025-06-06 16:23:45.3244 Info Decryption started. 
+2025-06-06 16:23:45.3244 Info Data decrypted successfully. 
+2025-06-06 16:24:01.1013 Info Decryption started. 
+2025-06-06 16:24:01.1013 Info Data decrypted successfully. 
+2025-06-24 13:09:41.9469 Info Function class initialized successfully. 
+2025-06-24 13:09:42.1194 Info TableTransactions form initialized. 
+2025-06-24 13:09:46.0880 Debug Player info and transaction data reset. 
+2025-06-24 13:09:46.0880 Info TableTransactions form loaded. 
+2025-06-24 13:10:16.8050 Info Function class initialized successfully. 
+2025-06-24 13:10:16.9446 Info TableTransactions form initialized. 
+2025-06-24 13:10:23.1675 Debug Player info and transaction data reset. 
+2025-06-24 13:10:23.1731 Info TableTransactions form loaded. 
+2025-06-24 13:14:06.1973 Info Function class initialized successfully. 
+2025-06-24 13:14:06.3073 Info TableTransactions form initialized. 
+2025-06-24 13:14:07.2413 Debug Player info and transaction data reset. 
+2025-06-24 13:14:07.2413 Info TableTransactions form loaded. 
+2025-06-24 13:21:46.7318 Info Function class initialized successfully. 
+2025-06-24 13:21:46.8750 Info TableTransactions form initialized. 
+2025-06-24 13:21:48.5106 Debug Player info and transaction data reset. 
+2025-06-24 13:21:48.5256 Info TableTransactions form loaded. 
+2025-06-24 13:24:08.9552 Info Function class initialized successfully. 
+2025-06-24 13:24:09.1791 Info TableTransactions form initialized. 
+2025-06-24 13:24:10.5706 Debug Player info and transaction data reset. 
+2025-06-24 13:24:10.6217 Info TableTransactions form loaded. 
+2025-06-24 13:24:45.6350 Info Function class initialized successfully. 
+2025-06-24 13:24:45.7724 Info TableTransactions form initialized. 
+2025-06-24 13:25:02.0375 Debug Player info and transaction data reset. 
+2025-06-24 13:25:02.0375 Info TableTransactions form loaded. 
+2025-06-24 13:43:41.9424 Info Function class initialized successfully. 
+2025-06-24 13:43:42.0639 Info TableTransactions form initialized. 
+2025-06-24 14:17:45.5121 Info Function class initialized successfully. 
+2025-06-24 14:17:45.6648 Info TableTransactions form initialized. 
+2025-06-24 14:18:56.0462 Info Function class initialized successfully. 
+2025-06-24 14:18:56.2054 Info TableTransactions form initialized. 
+2025-06-24 14:20:02.2149 Info Function class initialized successfully. 
+2025-06-24 14:20:02.3346 Info TableTransactions form initialized. 
+2025-06-24 14:21:38.4886 Error An error occurred during the reprint process. System.NullReferenceException: Object reference not set to an instance of an object.
+   at POSPatronImage.FOEventTicketIssuance.GetSelectedRowsFromDataSource(DataGridView dgv) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 193
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click_1(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 445
+2025-06-24 14:22:17.7345 Info Function class initialized successfully. 
+2025-06-24 14:22:17.9035 Info TableTransactions form initialized. 
+2025-06-24 14:27:29.1758 Info Function class initialized successfully. 
+2025-06-24 14:27:29.4213 Info TableTransactions form initialized. 
+2025-06-24 14:31:40.5062 Info Function class initialized successfully. 
+2025-06-24 14:31:40.6487 Info TableTransactions form initialized. 
+2025-06-24 14:33:22.9825 Info Function class initialized successfully. 
+2025-06-24 14:33:23.2299 Info TableTransactions form initialized. 
+2025-06-24 14:33:37.0560 Info Function class initialized successfully. 
+2025-06-24 14:33:37.2285 Info TableTransactions form initialized. 
+2025-06-24 14:34:00.4165 Info Function class initialized successfully. 
+2025-06-24 14:34:00.5765 Info TableTransactions form initialized. 
+2025-06-24 14:35:26.3173 Info Function class initialized successfully. 
+2025-06-24 14:35:26.4256 Info TableTransactions form initialized. 
+2025-06-24 14:36:38.6167 Info Function class initialized successfully. 
+2025-06-24 14:36:38.7269 Info TableTransactions form initialized. 
+2025-06-24 14:39:58.4257 Info Function class initialized successfully. 
+2025-06-24 14:39:58.5210 Info TableTransactions form initialized. 
+2025-06-24 14:41:41.3462 Info Function class initialized successfully. 
+2025-06-24 14:41:41.4509 Info TableTransactions form initialized. 
+2025-06-24 14:42:05.5311 Info Function class initialized successfully. 
+2025-06-24 14:42:05.6264 Info TableTransactions form initialized. 
+2025-06-24 14:43:09.4484 Info Function class initialized successfully. 
+2025-06-24 14:43:09.5751 Info TableTransactions form initialized. 
+2025-06-24 14:43:57.6145 Info Function class initialized successfully. 
+2025-06-24 14:43:57.7251 Info TableTransactions form initialized. 
+2025-06-24 14:44:27.4848 Info Function class initialized successfully. 
+2025-06-24 14:44:27.5986 Info TableTransactions form initialized. 
+2025-06-24 14:45:38.1902 Info Function class initialized successfully. 
+2025-06-24 14:45:38.2932 Info TableTransactions form initialized. 
+2025-06-24 14:47:00.5446 Info Function class initialized successfully. 
+2025-06-24 14:47:00.7299 Info TableTransactions form initialized. 
+2025-06-24 14:48:16.1541 Info Function class initialized successfully. 
+2025-06-24 14:48:16.2449 Info TableTransactions form initialized. 
+2025-06-24 14:50:19.9414 Info Function class initialized successfully. 
+2025-06-24 14:50:20.0294 Info TableTransactions form initialized. 
+2025-06-24 14:51:30.2464 Error An error occurred during the reprint process. System.NullReferenceException: Object reference not set to an instance of an object.
+   at POSPatronImage.FOEventTicketIssuance.GetSelectedRowsFromDataSource(DataGridView dgv) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 193
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click_1(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 445
+2025-06-24 14:51:55.9327 Error An error occurred during the reprint process. System.NullReferenceException: Object reference not set to an instance of an object.
+   at POSPatronImage.FOEventTicketIssuance.GetSelectedRowsFromDataSource(DataGridView dgv) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 193
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click_1(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 445
+2025-06-24 14:55:37.1878 Info Function class initialized successfully. 
+2025-06-24 14:55:37.3416 Info TableTransactions form initialized. 
+2025-06-24 14:55:52.2530 Error An error occurred during the reprint process. System.NullReferenceException: Object reference not set to an instance of an object.
+   at POSPatronImage.FOEventTicketIssuance.GetSelectedRowsFromDataSource(DataGridView dgv) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 193
+   at POSPatronImage.FOEventTicketIssuance.button_Print_Click_1(Object sender, EventArgs e) in C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketIssuance.cs:line 445
