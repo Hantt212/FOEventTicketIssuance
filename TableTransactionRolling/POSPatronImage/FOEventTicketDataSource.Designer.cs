@@ -24,7 +24,7 @@ namespace FOEventTicketIssuance {
     [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.DataSet")]
     public partial class FOEventTicketDataSource : global::System.Data.DataSet {
         
-        private GetNextDisplayNameDataTable tableGetNextDisplayName;
+        private AddFOEventTicketNewDataTable tableAddFOEventTicketNew;
         
         private global::System.Data.SchemaSerializationMode _schemaSerializationMode = global::System.Data.SchemaSerializationMode.IncludeSchema;
         
@@ -54,8 +54,8 @@ namespace FOEventTicketIssuance {
             if ((this.DetermineSchemaSerializationMode(info, context) == global::System.Data.SchemaSerializationMode.IncludeSchema)) {
                 global::System.Data.DataSet ds = new global::System.Data.DataSet();
                 ds.ReadXmlSchema(new global::System.Xml.XmlTextReader(new global::System.IO.StringReader(strSchema)));
-                if ((ds.Tables["GetNextDisplayName"] != null)) {
-                    base.Tables.Add(new GetNextDisplayNameDataTable(ds.Tables["GetNextDisplayName"]));
+                if ((ds.Tables["AddFOEventTicketNew"] != null)) {
+                    base.Tables.Add(new AddFOEventTicketNewDataTable(ds.Tables["AddFOEventTicketNew"]));
                 }
                 this.DataSetName = ds.DataSetName;
                 this.Prefix = ds.Prefix;
@@ -79,9 +79,9 @@ namespace FOEventTicketIssuance {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Browsable(false)]
         [global::System.ComponentModel.DesignerSerializationVisibility(global::System.ComponentModel.DesignerSerializationVisibility.Content)]
-        public GetNextDisplayNameDataTable GetNextDisplayName {
+        public AddFOEventTicketNewDataTable AddFOEventTicketNew {
             get {
-                return this.tableGetNextDisplayName;
+                return this.tableAddFOEventTicketNew;
             }
         }
         
@@ -152,8 +152,8 @@ namespace FOEventTicketIssuance {
                 this.Reset();
                 global::System.Data.DataSet ds = new global::System.Data.DataSet();
                 ds.ReadXml(reader);
-                if ((ds.Tables["GetNextDisplayName"] != null)) {
-                    base.Tables.Add(new GetNextDisplayNameDataTable(ds.Tables["GetNextDisplayName"]));
+                if ((ds.Tables["AddFOEventTicketNew"] != null)) {
+                    base.Tables.Add(new AddFOEventTicketNewDataTable(ds.Tables["AddFOEventTicketNew"]));
                 }
                 this.DataSetName = ds.DataSetName;
                 this.Prefix = ds.Prefix;
@@ -188,10 +188,10 @@ namespace FOEventTicketIssuance {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         internal void InitVars(bool initTable) {
-            this.tableGetNextDisplayName = ((GetNextDisplayNameDataTable)(base.Tables["GetNextDisplayName"]));
+            this.tableAddFOEventTicketNew = ((AddFOEventTicketNewDataTable)(base.Tables["AddFOEventTicketNew"]));
             if ((initTable == true)) {
-                if ((this.tableGetNextDisplayName != null)) {
-                    this.tableGetNextDisplayName.InitVars();
+                if ((this.tableAddFOEventTicketNew != null)) {
+                    this.tableAddFOEventTicketNew.InitVars();
                 }
             }
         }
@@ -204,13 +204,13 @@ namespace FOEventTicketIssuance {
             this.Namespace = "http://tempuri.org/FOEventTicketDataSource.xsd";
             this.EnforceConstraints = true;
             this.SchemaSerializationMode = global::System.Data.SchemaSerializationMode.IncludeSchema;
-            this.tableGetNextDisplayName = new GetNextDisplayNameDataTable();
-            base.Tables.Add(this.tableGetNextDisplayName);
+            this.tableAddFOEventTicketNew = new AddFOEventTicketNewDataTable();
+            base.Tables.Add(this.tableAddFOEventTicketNew);
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-        private bool ShouldSerializeGetNextDisplayName() {
+        private bool ShouldSerializeAddFOEventTicketNew() {
             return false;
         }
         
@@ -270,21 +270,25 @@ namespace FOEventTicketIssuance {
         }
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-        public delegate void GetNextDisplayNameRowChangeEventHandler(object sender, GetNextDisplayNameRowChangeEvent e);
+        public delegate void AddFOEventTicketNewRowChangeEventHandler(object sender, AddFOEventTicketNewRowChangeEvent e);
         
         /// <summary>
         ///Represents the strongly named DataTable class.
         ///</summary>
         [global::System.Serializable()]
         [global::System.Xml.Serialization.XmlSchemaProviderAttribute("GetTypedTableSchema")]
-        public partial class GetNextDisplayNameDataTable : global::System.Data.TypedTableBase<GetNextDisplayNameRow> {
+        public partial class AddFOEventTicketNewDataTable : global::System.Data.TypedTableBase<AddFOEventTicketNewRow> {
             
-            private global::System.Data.DataColumn columnNextDisplayName;
+            private global::System.Data.DataColumn columnStatus;
+            
+            private global::System.Data.DataColumn columnID;
+            
+            private global::System.Data.DataColumn columnDisplayName;
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public GetNextDisplayNameDataTable() {
-                this.TableName = "GetNextDisplayName";
+            public AddFOEventTicketNewDataTable() {
+                this.TableName = "AddFOEventTicketNew";
                 this.BeginInit();
                 this.InitClass();
                 this.EndInit();
@@ -292,7 +296,7 @@ namespace FOEventTicketIssuance {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            internal GetNextDisplayNameDataTable(global::System.Data.DataTable table) {
+            internal AddFOEventTicketNewDataTable(global::System.Data.DataTable table) {
                 this.TableName = table.TableName;
                 if ((table.CaseSensitive != table.DataSet.CaseSensitive)) {
                     this.CaseSensitive = table.CaseSensitive;
@@ -309,16 +313,32 @@ namespace FOEventTicketIssuance {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            protected GetNextDisplayNameDataTable(global::System.Runtime.Serialization.SerializationInfo info, global::System.Runtime.Serialization.StreamingContext context) : 
+            protected AddFOEventTicketNewDataTable(global::System.Runtime.Serialization.SerializationInfo info, global::System.Runtime.Serialization.StreamingContext context) : 
                     base(info, context) {
                 this.InitVars();
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public global::System.Data.DataColumn NextDisplayNameColumn {
+            public global::System.Data.DataColumn StatusColumn {
                 get {
-                    return this.columnNextDisplayName;
+                    return this.columnStatus;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public global::System.Data.DataColumn IDColumn {
+                get {
+                    return this.columnID;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public global::System.Data.DataColumn DisplayNameColumn {
+                get {
+                    return this.columnDisplayName;
                 }
             }
             
@@ -333,45 +353,47 @@ namespace FOEventTicketIssuance {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public GetNextDisplayNameRow this[int index] {
+            public AddFOEventTicketNewRow this[int index] {
                 get {
-                    return ((GetNextDisplayNameRow)(this.Rows[index]));
+                    return ((AddFOEventTicketNewRow)(this.Rows[index]));
                 }
             }
             
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public event GetNextDisplayNameRowChangeEventHandler GetNextDisplayNameRowChanging;
+            public event AddFOEventTicketNewRowChangeEventHandler AddFOEventTicketNewRowChanging;
             
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public event GetNextDisplayNameRowChangeEventHandler GetNextDisplayNameRowChanged;
+            public event AddFOEventTicketNewRowChangeEventHandler AddFOEventTicketNewRowChanged;
             
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public event GetNextDisplayNameRowChangeEventHandler GetNextDisplayNameRowDeleting;
+            public event AddFOEventTicketNewRowChangeEventHandler AddFOEventTicketNewRowDeleting;
             
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public event GetNextDisplayNameRowChangeEventHandler GetNextDisplayNameRowDeleted;
+            public event AddFOEventTicketNewRowChangeEventHandler AddFOEventTicketNewRowDeleted;
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public void AddGetNextDisplayNameRow(GetNextDisplayNameRow row) {
+            public void AddAddFOEventTicketNewRow(AddFOEventTicketNewRow row) {
                 this.Rows.Add(row);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public GetNextDisplayNameRow AddGetNextDisplayNameRow(int NextDisplayName) {
-                GetNextDisplayNameRow rowGetNextDisplayNameRow = ((GetNextDisplayNameRow)(this.NewRow()));
+            public AddFOEventTicketNewRow AddAddFOEventTicketNewRow(string Status, int ID, int DisplayName) {
+                AddFOEventTicketNewRow rowAddFOEventTicketNewRow = ((AddFOEventTicketNewRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
-                        NextDisplayName};
-                rowGetNextDisplayNameRow.ItemArray = columnValuesArray;
-                this.Rows.Add(rowGetNextDisplayNameRow);
-                return rowGetNextDisplayNameRow;
+                        Status,
+                        ID,
+                        DisplayName};
+                rowAddFOEventTicketNewRow.ItemArray = columnValuesArray;
+                this.Rows.Add(rowAddFOEventTicketNewRow);
+                return rowAddFOEventTicketNewRow;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             public override global::System.Data.DataTable Clone() {
-                GetNextDisplayNameDataTable cln = ((GetNextDisplayNameDataTable)(base.Clone()));
+                AddFOEventTicketNewDataTable cln = ((AddFOEventTicketNewDataTable)(base.Clone()));
                 cln.InitVars();
                 return cln;
             }
@@ -379,47 +401,56 @@ namespace FOEventTicketIssuance {
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             protected override global::System.Data.DataTable CreateInstance() {
-                return new GetNextDisplayNameDataTable();
+                return new AddFOEventTicketNewDataTable();
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             internal void InitVars() {
-                this.columnNextDisplayName = base.Columns["NextDisplayName"];
+                this.columnStatus = base.Columns["Status"];
+                this.columnID = base.Columns["ID"];
+                this.columnDisplayName = base.Columns["DisplayName"];
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             private void InitClass() {
-                this.columnNextDisplayName = new global::System.Data.DataColumn("NextDisplayName", typeof(int), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnNextDisplayName);
-                this.columnNextDisplayName.ReadOnly = true;
+                this.columnStatus = new global::System.Data.DataColumn("Status", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnStatus);
+                this.columnID = new global::System.Data.DataColumn("ID", typeof(int), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnID);
+                this.columnDisplayName = new global::System.Data.DataColumn("DisplayName", typeof(int), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnDisplayName);
+                this.columnStatus.ReadOnly = true;
+                this.columnStatus.MaxLength = 7;
+                this.columnID.ReadOnly = true;
+                this.columnDisplayName.ReadOnly = true;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public GetNextDisplayNameRow NewGetNextDisplayNameRow() {
-                return ((GetNextDisplayNameRow)(this.NewRow()));
+            public AddFOEventTicketNewRow NewAddFOEventTicketNewRow() {
+                return ((AddFOEventTicketNewRow)(this.NewRow()));
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             protected override global::System.Data.DataRow NewRowFromBuilder(global::System.Data.DataRowBuilder builder) {
-                return new GetNextDisplayNameRow(builder);
+                return new AddFOEventTicketNewRow(builder);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             protected override global::System.Type GetRowType() {
-                return typeof(GetNextDisplayNameRow);
+                return typeof(AddFOEventTicketNewRow);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             protected override void OnRowChanged(global::System.Data.DataRowChangeEventArgs e) {
                 base.OnRowChanged(e);
-                if ((this.GetNextDisplayNameRowChanged != null)) {
-                    this.GetNextDisplayNameRowChanged(this, new GetNextDisplayNameRowChangeEvent(((GetNextDisplayNameRow)(e.Row)), e.Action));
+                if ((this.AddFOEventTicketNewRowChanged != null)) {
+                    this.AddFOEventTicketNewRowChanged(this, new AddFOEventTicketNewRowChangeEvent(((AddFOEventTicketNewRow)(e.Row)), e.Action));
                 }
             }
             
@@ -427,8 +458,8 @@ namespace FOEventTicketIssuance {
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             protected override void OnRowChanging(global::System.Data.DataRowChangeEventArgs e) {
                 base.OnRowChanging(e);
-                if ((this.GetNextDisplayNameRowChanging != null)) {
-                    this.GetNextDisplayNameRowChanging(this, new GetNextDisplayNameRowChangeEvent(((GetNextDisplayNameRow)(e.Row)), e.Action));
+                if ((this.AddFOEventTicketNewRowChanging != null)) {
+                    this.AddFOEventTicketNewRowChanging(this, new AddFOEventTicketNewRowChangeEvent(((AddFOEventTicketNewRow)(e.Row)), e.Action));
                 }
             }
             
@@ -436,8 +467,8 @@ namespace FOEventTicketIssuance {
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             protected override void OnRowDeleted(global::System.Data.DataRowChangeEventArgs e) {
                 base.OnRowDeleted(e);
-                if ((this.GetNextDisplayNameRowDeleted != null)) {
-                    this.GetNextDisplayNameRowDeleted(this, new GetNextDisplayNameRowChangeEvent(((GetNextDisplayNameRow)(e.Row)), e.Action));
+                if ((this.AddFOEventTicketNewRowDeleted != null)) {
+                    this.AddFOEventTicketNewRowDeleted(this, new AddFOEventTicketNewRowChangeEvent(((AddFOEventTicketNewRow)(e.Row)), e.Action));
                 }
             }
             
@@ -445,14 +476,14 @@ namespace FOEventTicketIssuance {
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             protected override void OnRowDeleting(global::System.Data.DataRowChangeEventArgs e) {
                 base.OnRowDeleting(e);
-                if ((this.GetNextDisplayNameRowDeleting != null)) {
-                    this.GetNextDisplayNameRowDeleting(this, new GetNextDisplayNameRowChangeEvent(((GetNextDisplayNameRow)(e.Row)), e.Action));
+                if ((this.AddFOEventTicketNewRowDeleting != null)) {
+                    this.AddFOEventTicketNewRowDeleting(this, new AddFOEventTicketNewRowChangeEvent(((AddFOEventTicketNewRow)(e.Row)), e.Action));
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public void RemoveGetNextDisplayNameRow(GetNextDisplayNameRow row) {
+            public void RemoveAddFOEventTicketNewRow(AddFOEventTicketNewRow row) {
                 this.Rows.Remove(row);
             }
             
@@ -479,7 +510,7 @@ namespace FOEventTicketIssuance {
                 type.Attributes.Add(attribute1);
                 global::System.Xml.Schema.XmlSchemaAttribute attribute2 = new global::System.Xml.Schema.XmlSchemaAttribute();
                 attribute2.Name = "tableTypeName";
-                attribute2.FixedValue = "GetNextDisplayNameDataTable";
+                attribute2.FixedValue = "AddFOEventTicketNewDataTable";
                 type.Attributes.Add(attribute2);
                 type.Particle = sequence;
                 global::System.Xml.Schema.XmlSchema dsSchema = ds.GetSchemaSerializable();
@@ -523,43 +554,99 @@ namespace FOEventTicketIssuance {
         /// <summary>
         ///Represents strongly named DataRow class.
         ///</summary>
-        public partial class GetNextDisplayNameRow : global::System.Data.DataRow {
+        public partial class AddFOEventTicketNewRow : global::System.Data.DataRow {
             
-            private GetNextDisplayNameDataTable tableGetNextDisplayName;
+            private AddFOEventTicketNewDataTable tableAddFOEventTicketNew;
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            internal GetNextDisplayNameRow(global::System.Data.DataRowBuilder rb) : 
+            internal AddFOEventTicketNewRow(global::System.Data.DataRowBuilder rb) : 
                     base(rb) {
-                this.tableGetNextDisplayName = ((GetNextDisplayNameDataTable)(this.Table));
+                this.tableAddFOEventTicketNew = ((AddFOEventTicketNewDataTable)(this.Table));
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public int NextDisplayName {
+            public string Status {
                 get {
                     try {
-                        return ((int)(this[this.tableGetNextDisplayName.NextDisplayNameColumn]));
+                        return ((string)(this[this.tableAddFOEventTicketNew.StatusColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'NextDisplayName\' in table \'GetNextDisplayName\' is DBNull.", e);
+                        throw new global::System.Data.StrongTypingException("The value for column \'Status\' in table \'AddFOEventTicketNew\' is DBNull.", e);
                     }
                 }
                 set {
-                    this[this.tableGetNextDisplayName.NextDisplayNameColumn] = value;
+                    this[this.tableAddFOEventTicketNew.StatusColumn] = value;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public bool IsNextDisplayNameNull() {
-                return this.IsNull(this.tableGetNextDisplayName.NextDisplayNameColumn);
+            public int ID {
+                get {
+                    try {
+                        return ((int)(this[this.tableAddFOEventTicketNew.IDColumn]));
+                    }
+                    catch (global::System.InvalidCastException e) {
+                        throw new global::System.Data.StrongTypingException("The value for column \'ID\' in table \'AddFOEventTicketNew\' is DBNull.", e);
+                    }
+                }
+                set {
+                    this[this.tableAddFOEventTicketNew.IDColumn] = value;
+                }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public void SetNextDisplayNameNull() {
-                this[this.tableGetNextDisplayName.NextDisplayNameColumn] = global::System.Convert.DBNull;
+            public int DisplayName {
+                get {
+                    try {
+                        return ((int)(this[this.tableAddFOEventTicketNew.DisplayNameColumn]));
+                    }
+                    catch (global::System.InvalidCastException e) {
+                        throw new global::System.Data.StrongTypingException("The value for column \'DisplayName\' in table \'AddFOEventTicketNew\' is DBNull.", e);
+                    }
+                }
+                set {
+                    this[this.tableAddFOEventTicketNew.DisplayNameColumn] = value;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public bool IsStatusNull() {
+                return this.IsNull(this.tableAddFOEventTicketNew.StatusColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public void SetStatusNull() {
+                this[this.tableAddFOEventTicketNew.StatusColumn] = global::System.Convert.DBNull;
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public bool IsIDNull() {
+                return this.IsNull(this.tableAddFOEventTicketNew.IDColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public void SetIDNull() {
+                this[this.tableAddFOEventTicketNew.IDColumn] = global::System.Convert.DBNull;
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public bool IsDisplayNameNull() {
+                return this.IsNull(this.tableAddFOEventTicketNew.DisplayNameColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+            public void SetDisplayNameNull() {
+                this[this.tableAddFOEventTicketNew.DisplayNameColumn] = global::System.Convert.DBNull;
             }
         }
         
@@ -567,22 +654,22 @@ namespace FOEventTicketIssuance {
         ///Row event argument class
         ///</summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-        public class GetNextDisplayNameRowChangeEvent : global::System.EventArgs {
+        public class AddFOEventTicketNewRowChangeEvent : global::System.EventArgs {
             
-            private GetNextDisplayNameRow eventRow;
+            private AddFOEventTicketNewRow eventRow;
             
             private global::System.Data.DataRowAction eventAction;
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public GetNextDisplayNameRowChangeEvent(GetNextDisplayNameRow row, global::System.Data.DataRowAction action) {
+            public AddFOEventTicketNewRowChangeEvent(AddFOEventTicketNewRow row, global::System.Data.DataRowAction action) {
                 this.eventRow = row;
                 this.eventAction = action;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public GetNextDisplayNameRow Row {
+            public AddFOEventTicketNewRow Row {
                 get {
                     return this.eventRow;
                 }
@@ -610,7 +697,7 @@ namespace FOEventTicketIssuance.FOEventTicketDataSourceTableAdapters {
     [global::System.ComponentModel.DesignerAttribute("Microsoft.VSDesigner.DataSource.Design.TableAdapterDesigner, Microsoft.VSDesigner" +
         ", Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a")]
     [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
-    public partial class GetNextDisplayNameTableAdapter : global::System.ComponentModel.Component {
+    public partial class AddFOEventTicketNewTableAdapter : global::System.ComponentModel.Component {
         
         private global::System.Data.SqlClient.SqlDataAdapter _adapter;
         
@@ -624,7 +711,7 @@ namespace FOEventTicketIssuance.FOEventTicketDataSourceTableAdapters {
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-        public GetNextDisplayNameTableAdapter() {
+        public AddFOEventTicketNewTableAdapter() {
             this.ClearBeforeFill = true;
         }
         
@@ -721,8 +808,10 @@ namespace FOEventTicketIssuance.FOEventTicketDataSourceTableAdapters {
             this._adapter = new global::System.Data.SqlClient.SqlDataAdapter();
             global::System.Data.Common.DataTableMapping tableMapping = new global::System.Data.Common.DataTableMapping();
             tableMapping.SourceTable = "Table";
-            tableMapping.DataSetTable = "GetNextDisplayName";
-            tableMapping.ColumnMappings.Add("NextDisplayName", "NextDisplayName");
+            tableMapping.DataSetTable = "AddFOEventTicketNew";
+            tableMapping.ColumnMappings.Add("Status", "Status");
+            tableMapping.ColumnMappings.Add("ID", "ID");
+            tableMapping.ColumnMappings.Add("DisplayName", "DisplayName");
             this._adapter.TableMappings.Add(tableMapping);
         }
         
@@ -730,7 +819,7 @@ namespace FOEventTicketIssuance.FOEventTicketDataSourceTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::FOEventTicketIssuance.Properties.Settings.Default.AnnualEmployeeConnectionString;
+            this._connection.ConnectionString = global::FOEventTicketIssuance.Properties.Settings.Default.FOPortalConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -739,17 +828,24 @@ namespace FOEventTicketIssuance.FOEventTicketDataSourceTableAdapters {
             this._commandCollection = new global::System.Data.SqlClient.SqlCommand[1];
             this._commandCollection[0] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[0].Connection = this.Connection;
-            this._commandCollection[0].CommandText = "dbo.GetNextDisplayName";
+            this._commandCollection[0].CommandText = "dbo.AddFOEventTicketNew";
             this._commandCollection[0].CommandType = global::System.Data.CommandType.StoredProcedure;
             this._commandCollection[0].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@RETURN_VALUE", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.ReturnValue, 10, 0, null, global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._commandCollection[0].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@CompName", global::System.Data.SqlDbType.NVarChar, 50, global::System.Data.ParameterDirection.Input, 0, 0, null, global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Fill, true)]
-        public virtual int Fill(FOEventTicketDataSource.GetNextDisplayNameDataTable dataTable) {
+        public virtual int Fill(FOEventTicketDataSource.AddFOEventTicketNewDataTable dataTable, string CompName) {
             this.Adapter.SelectCommand = this.CommandCollection[0];
+            if ((CompName == null)) {
+                this.Adapter.SelectCommand.Parameters[1].Value = global::System.DBNull.Value;
+            }
+            else {
+                this.Adapter.SelectCommand.Parameters[1].Value = ((string)(CompName));
+            }
             if ((this.ClearBeforeFill == true)) {
                 dataTable.Clear();
             }
@@ -761,9 +857,15 @@ namespace FOEventTicketIssuance.FOEventTicketDataSourceTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Select, true)]
-        public virtual FOEventTicketDataSource.GetNextDisplayNameDataTable GetData() {
+        public virtual FOEventTicketDataSource.AddFOEventTicketNewDataTable GetData(string CompName) {
             this.Adapter.SelectCommand = this.CommandCollection[0];
-            FOEventTicketDataSource.GetNextDisplayNameDataTable dataTable = new FOEventTicketDataSource.GetNextDisplayNameDataTable();
+            if ((CompName == null)) {
+                this.Adapter.SelectCommand.Parameters[1].Value = global::System.DBNull.Value;
+            }
+            else {
+                this.Adapter.SelectCommand.Parameters[1].Value = ((string)(CompName));
+            }
+            FOEventTicketDataSource.AddFOEventTicketNewDataTable dataTable = new FOEventTicketDataSource.AddFOEventTicketNewDataTable();
             this.Adapter.Fill(dataTable);
             return dataTable;
         }

@@ -13,6 +13,7 @@ using System.Windows.Forms;
 using Microsoft.Reporting.WinForms;
 using System.Runtime.InteropServices;
 using Microsoft.ReportingServices.Interfaces;
+using System.Net;
 
 
 namespace POSPatronImage.Support
@@ -79,20 +80,7 @@ namespace POSPatronImage.Support
 
             // Add to panel
             targetPanel.Controls.Add(reportViewer);
-
-            //if (isPrint)
-            //{
-            //    string printerName = new PrinterSettings().PrinterName;
-            //    byte[] reportBytes = reportViewer.LocalReport.Render("IMAGE", DeviceInfo());
-
-            //    Logger.Info("Report rendered successfully.");
-
-            //    // Perform silent EMF printing
-            //    PrintEMF(reportBytes, printerName);
-            //}
-
         }
-
 
         public DataTable UpdateFOEventTicket(int ID)
         {
@@ -119,9 +107,14 @@ namespace POSPatronImage.Support
             DataTable resultTable = new DataTable();
 
             using (SqlConnection conn = new SqlConnection(connectionString))
-            using (SqlCommand cmd = new SqlCommand("GetNextDisplayName", conn))
+            using (SqlCommand cmd = new SqlCommand("AddFOEventTicketNew", conn))
             using (SqlDataAdapter adapter = new SqlDataAdapter(cmd))
             {
+                // Add the parameter correctly with type
+                cmd.Parameters.Add(new SqlParameter("@CompName", SqlDbType.NVarChar, 50)
+                {
+                    Value = System.Net.Dns.GetHostName()
+                });
                 cmd.CommandType = CommandType.StoredProcedure;
                 adapter.Fill(resultTable);
             }
@@ -176,17 +169,6 @@ namespace POSPatronImage.Support
             }
         }
 
-        public bool IsPrinterValid(string printerName)
-        {
-            foreach (string printer in PrinterSettings.InstalledPrinters)
-            {
-                if (printer.Equals(printerName, StringComparison.OrdinalIgnoreCase))
-                {
-                    return true; // Printer exists
-                }
-            }
-            return false; // Printer not found
-        }
 
     }
 }

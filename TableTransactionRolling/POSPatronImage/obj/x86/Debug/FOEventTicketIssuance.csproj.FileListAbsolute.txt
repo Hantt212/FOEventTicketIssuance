@@ -12,6 +12,7 @@ C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTran
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\Microsoft.ReportViewer.Design.dll
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\Microsoft.SqlServer.Types.dll
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\NLog.dll
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\EnvDTE.dll
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\stdole.dll
@@ -91,4 +92,3 @@ C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTran
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\obj\x86\Debug\FOEventT.0466BD4D.Up2Date
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\obj\x86\Debug\FOEventTicketIssuance.exe
 C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\obj\x86\Debug\FOEventTicketIssuance.pdb
-C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\bin\Debug\Microsoft.SqlServer.Types.dll

@@ -35,11 +35,11 @@ namespace FOEventTicketIssuance.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=10.21.1.121\\inhouse;Initial Catalog=AnnualEmployee;User ID=annualleav" +
-            "e.user;Password=P@ssword1;TrustServerCertificate=True")]
-        public string AnnualEmployeeConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=10.21.3.10;Initial Catalog=FOPortal;User ID=fo.user;Password=Password" +
+            "1@;TrustServerCertificate=True")]
+        public string FOPortalConnectionString {
             get {
-                return ((string)(this["AnnualEmployeeConnectionString"]));
+                return ((string)(this["FOPortalConnectionString"]));
             }
         }
     }

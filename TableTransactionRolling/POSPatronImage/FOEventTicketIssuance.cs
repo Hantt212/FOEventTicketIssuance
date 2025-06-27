@@ -23,7 +23,7 @@ namespace POSPatronImage
         private readonly Function function = new Function();
         private DataTable transTable;
         private DataTable printedTransTable;
-        int previewDisplayName = 0;
+        int ID = 0;
         ReportViewer reportViewer;
         public FOEventTicketIssuance()
         {
@@ -39,9 +39,9 @@ namespace POSPatronImage
             // Log form initialization
             Logger.Info("TableTransactions form initialized.");
         }
-        
- 
-   
+
+
+
         public List<string> GetLocalPrinterNames()
         {
             List<string> printerNames = new List<string>();
@@ -57,7 +57,7 @@ namespace POSPatronImage
 
 
 
-       
+
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
@@ -69,7 +69,7 @@ namespace POSPatronImage
             // DataTable dt = function.AddFOEventTicket();
             reportViewer = new ReportViewer();
             DataTable dt = function.LoadPreFOEventTicket();
-            previewDisplayName = Convert.ToInt32(dt.Rows[0]["NextDisplayName"]);
+            ID = Convert.ToInt32(dt.Rows[0]["ID"]);
             function.LoadRDLCToPanel(reportPath, pnlTicket, dt, reportViewer);
         }
 
@@ -77,51 +77,15 @@ namespace POSPatronImage
         {
             try
             {
-                using (SqlConnection conn = new SqlConnection("data source=10.21.3.10;initial catalog=FOPortal;user id=fo.user;password=Password1@;trustservercertificate=True;MultipleActiveResultSets=True"))
-                using (SqlCommand cmd = new SqlCommand("AddFOEventTicket", conn))
-                {
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    conn.Open();
+                string printerName = new PrinterSettings().PrinterName;
+                byte[] reportBytes = reportViewer.LocalReport.Render("IMAGE", function.DeviceInfo());
 
-                    using (SqlDataReader reader = cmd.ExecuteReader())
-                    {
-                        if (reader.Read())
-                        {
-                            string status = reader["Status"].ToString();
+                Logger.Info("Report rendered successfully.");
 
-                            if (status == "Success")
-                            {
-                                int actualDisplayName = Convert.ToInt32(reader["DisplayName"]);
-                                int ID = Convert.ToInt32(reader["ID"]);
-                                if (actualDisplayName != previewDisplayName)
-                                {
-                                    MessageBox.Show($"⚠️ Your ticket changed!\n New Ticket: {actualDisplayName}");
-                                    // Refresh for next insert
-                                }
-                                else
-                                {
-                                    string printerName = new PrinterSettings().PrinterName;
-                                    byte[] reportBytes = reportViewer.LocalReport.Render("IMAGE", function.DeviceInfo());
-
-                                    Logger.Info("Report rendered successfully.");
-
-                                    // Perform silent EMF printing
-                                    function.PrintEMF(reportBytes, printerName);
-
-                                    function.UpdateFOEventTicket(ID);
-                                }
-
-                                FOEventTicketIssuance_Load(sender, e);
-                            }
-                            else
-                            {
-                               
-                                string error = reader["ErrorMessage"].ToString();
-                                MessageBox.Show("Error: " + error);
-                            }
-                        }
-                    }
-                }
+                // Perform silent EMF printing
+                function.PrintEMF(reportBytes, printerName);
+                function.UpdateFOEventTicket(ID);
+                FOEventTicketIssuance_Load(sender, e);
             }
             catch (Exception ex)
             {

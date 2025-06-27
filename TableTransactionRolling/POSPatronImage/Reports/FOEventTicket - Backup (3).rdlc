@@ -7,7 +7,7 @@
         <DataProvider>System.Data.DataSet</DataProvider>
         <ConnectString>/* Local Connection */</ConnectString>
       </ConnectionProperties>
-      <rd:DataSourceID>df676c56-da9b-4645-8024-8fb24542d948</rd:DataSourceID>
+      <rd:DataSourceID>971b95a2-6cdf-4b8c-b7ff-0781af045064</rd:DataSourceID>
     </DataSource>
   </DataSources>
   <DataSets>
@@ -17,26 +17,18 @@
         <CommandText>/* Local Query */</CommandText>
       </Query>
       <Fields>
-        <Field Name="Status">
-          <DataField>Status</DataField>
-          <rd:TypeName>System.String</rd:TypeName>
-        </Field>
-        <Field Name="ID">
-          <DataField>ID</DataField>
-          <rd:TypeName>System.Int32</rd:TypeName>
-        </Field>
-        <Field Name="DisplayName">
-          <DataField>DisplayName</DataField>
+        <Field Name="NextDisplayName">
+          <DataField>NextDisplayName</DataField>
           <rd:TypeName>System.Int32</rd:TypeName>
         </Field>
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>FOEventTicketDataSource</rd:DataSetName>
         <rd:SchemaPath>C:\Users\hatt.nguyen.HTPVTG\OneDrive - HO TRAM PROJECT COMPANY LIMITED\TableTransactionRolling\POSPatronImage\FOEventTicketDataSource.xsd</rd:SchemaPath>
-        <rd:TableName>AddFOEventTicketNew</rd:TableName>
+        <rd:TableName>GetNextDisplayName</rd:TableName>
         <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
         <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
-        <rd:TableAdapterName>AddFOEventTicketNewTableAdapter</rd:TableAdapterName>
+        <rd:TableAdapterName>GetNextDisplayNameTableAdapter</rd:TableAdapterName>
       </rd:DataSetInfo>
     </DataSet>
   </DataSets>
@@ -217,7 +209,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>=Fields!ID.Value</Value>
+                    <Value>=Fields!NextDisplayName.Value</Value>
                     <Style>
                       <FontFamily>Arial Black</FontFamily>
                       <FontSize>75pt</FontSize>

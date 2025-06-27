@@ -51,9 +51,7 @@
             this.btnReset = new System.Windows.Forms.Button();
             this.button_Print = new System.Windows.Forms.Button();
             this.pnlTicket = new System.Windows.Forms.Panel();
-            this.panel1 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTrans)).BeginInit();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelInfo
@@ -211,23 +209,14 @@
             // 
             // pnlTicket
             // 
+            this.pnlTicket.BackColor = System.Drawing.Color.White;
             this.pnlTicket.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlTicket.Location = new System.Drawing.Point(3, 0);
+            this.pnlTicket.Location = new System.Drawing.Point(2, 1);
             this.pnlTicket.Margin = new System.Windows.Forms.Padding(3, 0, 3, 3);
             this.pnlTicket.Name = "pnlTicket";
-            this.pnlTicket.Size = new System.Drawing.Size(308, 538);
+            this.pnlTicket.Size = new System.Drawing.Size(317, 538);
             this.pnlTicket.TabIndex = 0;
             this.pnlTicket.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlTicket_Paint);
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Controls.Add(this.pnlTicket);
-            this.panel1.Location = new System.Drawing.Point(12, 1);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(311, 538);
-            this.panel1.TabIndex = 38;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // FOEventTicketIssuance
             // 
@@ -235,9 +224,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
-            this.ClientSize = new System.Drawing.Size(337, 623);
+            this.ClientSize = new System.Drawing.Size(321, 623);
+            this.Controls.Add(this.pnlTicket);
             this.Controls.Add(this.button_Print);
-            this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
@@ -248,7 +237,6 @@
             this.Text = "Table Transactions Rolling";
             this.Load += new System.EventHandler(this.FOEventTicketIssuance_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvTrans)).EndInit();
-            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -276,6 +264,5 @@
         private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Button button_Print;
         private System.Windows.Forms.Panel pnlTicket;
-        private System.Windows.Forms.Panel panel1;
     }
 }

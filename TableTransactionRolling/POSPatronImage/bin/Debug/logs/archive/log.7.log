@@ -1,413 +1,118 @@
-2024-10-08 11:28:22.0231 Info Function class initialized successfully. 
-2024-10-08 11:28:22.2580 Info TableTransactions form initialized. 
-2024-10-08 11:28:40.9761 Debug Player info and transaction data reset. 
-2024-10-08 11:28:40.9761 Info TableTransactions form loaded. 
-2024-10-08 11:28:47.5661 Debug Player info and transaction data reset. 
-2024-10-08 11:28:47.5661 Info Fetching player information for PlayerID: 10001 
-2024-10-08 11:28:47.5661 Info Decryption started. 
-2024-10-08 11:28:47.5801 Info Data decrypted successfully. 
-2024-10-08 11:28:47.7680 Warn Player not found for PlayerID: 10001 
-2024-10-08 12:01:38.5932 Info Function class initialized successfully. 
-2024-10-08 12:01:38.9251 Info TableTransactions form initialized. 
-2024-10-08 12:01:40.1427 Debug Player info and transaction data reset. 
-2024-10-08 12:01:40.1427 Info TableTransactions form loaded. 
-2024-10-08 12:01:44.6873 Debug Player info and transaction data reset. 
-2024-10-08 12:01:44.6873 Info Fetching player information for PlayerID: 10001 
-2024-10-08 12:01:44.6873 Info Decryption started. 
-2024-10-08 12:01:44.6873 Info Data decrypted successfully. 
-2024-10-08 12:01:44.8452 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:01:44.8622 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:01:44.9212 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 12:01:51.6481 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:01:53.2466 Info Decryption started. 
-2024-10-08 12:01:53.2466 Info Data decrypted successfully. 
-2024-10-08 12:01:53.5075 Info Rendering report for printing. 
-2024-10-08 12:01:54.3672 Info Report rendered successfully. 
-2024-10-08 12:01:54.8171 Info Printing initiated. 
-2024-10-08 12:01:54.8171 Info Print initiated for selected rows, copy 1. 
-2024-10-08 12:01:54.8221 Info Rendering report for printing. 
-2024-10-08 12:01:54.9331 Info Report rendered successfully. 
-2024-10-08 12:01:55.2640 Info Printing initiated. 
-2024-10-08 12:01:55.2640 Info Print initiated for selected rows, copy 2. 
-2024-10-08 12:01:55.2640 Info Decryption started. 
-2024-10-08 12:01:55.2640 Info Data decrypted successfully. 
-2024-10-08 12:01:55.3439 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:02:06.5674 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:02:07.6691 Info Decryption started. 
-2024-10-08 12:02:07.6691 Info Data decrypted successfully. 
-2024-10-08 12:02:07.6781 Info Rendering report for printing. 
-2024-10-08 12:02:07.8440 Info Report rendered successfully. 
-2024-10-08 12:02:08.1709 Info Printing initiated. 
-2024-10-08 12:02:08.1709 Info Print initiated for selected rows, copy 1. 
-2024-10-08 12:02:08.1709 Info Rendering report for printing. 
-2024-10-08 12:02:08.3838 Info Report rendered successfully. 
-2024-10-08 12:02:08.8097 Info Printing initiated. 
-2024-10-08 12:02:08.8097 Info Print initiated for selected rows, copy 2. 
-2024-10-08 12:02:08.8097 Info Decryption started. 
-2024-10-08 12:02:08.8097 Info Data decrypted successfully. 
-2024-10-08 12:02:08.8927 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:06:05.1649 Info Function class initialized successfully. 
-2024-10-08 12:06:05.5448 Info TableTransactions form initialized. 
-2024-10-08 12:06:06.7244 Debug Player info and transaction data reset. 
-2024-10-08 12:06:06.7254 Info TableTransactions form loaded. 
-2024-10-08 12:06:09.5565 Debug Player info and transaction data reset. 
-2024-10-08 12:06:09.5565 Info Fetching player information for PlayerID: 10001 
-2024-10-08 12:06:09.5565 Info Decryption started. 
-2024-10-08 12:06:09.5565 Info Data decrypted successfully. 
-2024-10-08 12:06:15.2367 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:06:19.0815 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:06:27.2959 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 12:07:03.2493 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:08:05.0984 Info Function class initialized successfully. 
-2024-10-08 12:08:05.4313 Info TableTransactions form initialized. 
-2024-10-08 12:08:09.3340 Debug Player info and transaction data reset. 
-2024-10-08 12:08:09.3350 Info TableTransactions form loaded. 
-2024-10-08 12:08:12.2791 Debug Player info and transaction data reset. 
-2024-10-08 12:08:12.2791 Info Fetching player information for PlayerID: 10001 
-2024-10-08 12:08:12.2791 Info Decryption started. 
-2024-10-08 12:08:12.2791 Info Data decrypted successfully. 
-2024-10-08 12:08:20.6355 Info Function class initialized successfully. 
-2024-10-08 12:08:20.9284 Info TableTransactions form initialized. 
-2024-10-08 12:08:22.0970 Debug Player info and transaction data reset. 
-2024-10-08 12:08:22.0970 Info TableTransactions form loaded. 
-2024-10-08 12:08:25.1860 Debug Player info and transaction data reset. 
-2024-10-08 12:08:25.1860 Info Fetching player information for PlayerID: 10001 
-2024-10-08 12:08:25.1860 Info Decryption started. 
-2024-10-08 12:08:25.1860 Info Data decrypted successfully. 
-2024-10-08 12:08:25.3130 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:08:25.3290 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:08:25.3580 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 12:08:28.3590 Info Decryption started. 
-2024-10-08 12:08:28.3590 Info Data decrypted successfully. 
-2024-10-08 12:08:30.4884 Debug Player info and transaction data reset. 
-2024-10-08 12:08:31.0192 Info Decryption started. 
-2024-10-08 12:08:31.0192 Info Data decrypted successfully. 
-2024-10-08 12:09:32.9468 Info Function class initialized successfully. 
-2024-10-08 12:09:33.2258 Info TableTransactions form initialized. 
-2024-10-08 12:09:34.4644 Debug Player info and transaction data reset. 
-2024-10-08 12:09:34.4644 Info TableTransactions form loaded. 
-2024-10-08 12:09:39.0189 Debug Player info and transaction data reset. 
-2024-10-08 12:09:39.0189 Info Fetching player information for PlayerID: 10001 
-2024-10-08 12:09:39.0189 Info Decryption started. 
-2024-10-08 12:09:39.0229 Info Data decrypted successfully. 
-2024-10-08 12:09:39.1379 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:09:39.1539 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:09:39.1809 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 12:09:47.0224 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:09:47.7762 Info Decryption started. 
-2024-10-08 12:09:47.7762 Info Data decrypted successfully. 
-2024-10-08 12:09:47.8242 Info Rendering report for printing. 
-2024-10-08 12:09:48.6369 Info Report rendered successfully. 
-2024-10-08 12:09:48.9878 Info Printing initiated. 
-2024-10-08 12:09:48.9878 Info Print initiated for selected rows, copy 1. 
-2024-10-08 12:09:48.9928 Info Rendering report for printing. 
-2024-10-08 12:09:49.1347 Info Report rendered successfully. 
-2024-10-08 12:09:49.5746 Info Printing initiated. 
-2024-10-08 12:09:49.5746 Info Print initiated for selected rows, copy 2. 
-2024-10-08 12:09:49.5746 Info Decryption started. 
-2024-10-08 12:09:49.5746 Info Data decrypted successfully. 
-2024-10-08 12:09:49.6456 Info Displayed information for PlayerID: 10001 
-2024-10-08 12:10:03.3762 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:06:50.6416 Info Function class initialized successfully. 
-2024-10-08 13:06:50.9235 Info TableTransactions form initialized. 
-2024-10-08 13:06:52.6789 Debug Player info and transaction data reset. 
-2024-10-08 13:06:52.6789 Info TableTransactions form loaded. 
-2024-10-08 13:06:56.3118 Debug Player info and transaction data reset. 
-2024-10-08 13:06:56.3118 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:06:56.3218 Info Decryption started. 
-2024-10-08 13:06:56.3218 Info Data decrypted successfully. 
-2024-10-08 13:06:56.5097 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:06:56.5267 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:06:56.5737 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 13:06:57.9673 Info Decryption started. 
-2024-10-08 13:06:57.9673 Info Data decrypted successfully. 
-2024-10-08 13:06:59.5698 Debug Player info and transaction data reset. 
-2024-10-08 13:07:08.1237 Debug Player info and transaction data reset. 
-2024-10-08 13:07:08.1237 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:07:08.1237 Info Decryption started. 
-2024-10-08 13:07:08.1237 Info Data decrypted successfully. 
-2024-10-08 13:07:08.1847 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:07:08.1996 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 13:07:11.7271 Info Decryption started. 
-2024-10-08 13:07:11.7271 Info Data decrypted successfully. 
-2024-10-08 13:07:12.7317 Info Decryption started. 
-2024-10-08 13:07:12.7317 Info Data decrypted successfully. 
-2024-10-08 13:07:13.8174 Debug Player info and transaction data reset. 
-2024-10-08 13:07:16.9164 Debug Player info and transaction data reset. 
-2024-10-08 13:07:16.9164 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:07:16.9164 Info Decryption started. 
-2024-10-08 13:07:16.9164 Info Data decrypted successfully. 
-2024-10-08 13:07:16.9784 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:07:16.9914 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 13:07:24.6990 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:07:25.4987 Info Decryption started. 
-2024-10-08 13:07:25.4987 Info Data decrypted successfully. 
-2024-10-08 13:07:25.6227 Info Rendering report for printing. 
-2024-10-08 13:07:26.5104 Info Report rendered successfully. 
-2024-10-08 13:07:26.8783 Info Printing initiated. 
-2024-10-08 13:07:26.8793 Info Print initiated for selected rows, copy 1. 
-2024-10-08 13:07:26.8793 Info Rendering report for printing. 
-2024-10-08 13:07:27.0942 Info Report rendered successfully. 
-2024-10-08 13:07:27.5531 Info Printing initiated. 
-2024-10-08 13:07:27.5531 Info Print initiated for selected rows, copy 2. 
-2024-10-08 13:07:27.5531 Info Decryption started. 
-2024-10-08 13:07:27.5531 Info Data decrypted successfully. 
-2024-10-08 13:07:27.6380 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:07:32.4895 Info Displayed information for PlayerID: 10001 
-2024-10-08 13:08:03.9701 Debug Player info and transaction data reset. 
-2024-10-08 13:08:06.3824 Debug Player info and transaction data reset. 
-2024-10-08 13:08:06.3824 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:08:06.3824 Info Decryption started. 
-2024-10-08 13:08:06.3824 Info Data decrypted successfully. 
-2024-10-08 13:08:06.5314 Warn Player not found for PlayerID: 10001 
-2024-10-08 13:08:10.8480 Debug Player info and transaction data reset. 
-2024-10-08 13:08:10.8480 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:08:10.8480 Info Decryption started. 
-2024-10-08 13:08:10.8490 Info Data decrypted successfully. 
-2024-10-08 13:08:10.9350 Warn Player not found for PlayerID: 10001 
-2024-10-08 13:08:15.4636 Debug Player info and transaction data reset. 
-2024-10-08 13:08:15.4636 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:08:15.4636 Info Decryption started. 
-2024-10-08 13:08:15.4636 Info Data decrypted successfully. 
-2024-10-08 13:08:15.5435 Warn Player not found for PlayerID: 10001 
-2024-10-08 13:08:23.0932 Debug Player info and transaction data reset. 
-2024-10-08 13:08:23.0932 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:08:23.0932 Info Decryption started. 
-2024-10-08 13:08:23.0932 Info Data decrypted successfully. 
-2024-10-08 13:08:23.1792 Warn Player not found for PlayerID: 10001 
-2024-10-08 13:08:24.4278 Debug Player info and transaction data reset. 
-2024-10-08 13:32:26.4787 Info Function class initialized successfully. 
-2024-10-08 13:32:26.7656 Info TableTransactions form initialized. 
-2024-10-08 13:32:27.8703 Debug Player info and transaction data reset. 
-2024-10-08 13:32:27.8703 Info TableTransactions form loaded. 
-2024-10-08 13:32:29.3448 Debug Player info and transaction data reset. 
-2024-10-08 13:32:29.3448 Info Fetching player information for PlayerID: printedTransTable 
-2024-10-08 13:32:30.5625 Error Error getting player information for PlayerID: printedTransTable System.FormatException: Input string was not in a correct format.
-   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
-   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
-   at System.Int32.Parse(String s)
-   at POSPatronImage.TableTransactions.GetPlayerInformationFromID(String playerID) in C:\Users\nghiad.tran\Desktop\Curent Projects\TableTransactionRolling\POSPatronImage\TableTransactions.cs:line 116
-2024-10-08 13:32:31.0363 Debug Player info and transaction data reset. 
-2024-10-08 13:32:33.5995 Debug Player info and transaction data reset. 
-2024-10-08 13:32:33.5995 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:32:33.5995 Info Decryption started. 
-2024-10-08 13:32:33.6115 Info Data decrypted successfully. 
-2024-10-08 13:32:33.7555 Info Decryption started. 
-2024-10-08 13:32:33.7555 Info Data decrypted successfully. 
-2024-10-08 13:33:12.5068 Info Function class initialized successfully. 
-2024-10-08 13:33:12.8037 Info TableTransactions form initialized. 
-2024-10-08 13:33:13.5885 Debug Player info and transaction data reset. 
-2024-10-08 13:33:13.5885 Info TableTransactions form loaded. 
-2024-10-08 13:33:16.3636 Debug Player info and transaction data reset. 
-2024-10-08 13:33:16.3636 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:33:16.3636 Info Decryption started. 
-2024-10-08 13:33:16.3636 Info Data decrypted successfully. 
-2024-10-08 13:33:16.4946 Info Decryption started. 
-2024-10-08 13:33:16.4946 Info Data decrypted successfully. 
-2024-10-08 13:33:16.5046 Info Successfully retrieved player data for PlayerID from printedTransTable: 10001. Transaction count: 6 
-2024-10-08 13:33:19.4247 Info Decryption started. 
-2024-10-08 13:33:19.4247 Info Data decrypted successfully. 
-2024-10-08 13:33:32.0797 Info Decryption started. 
-2024-10-08 13:33:32.0797 Info Data decrypted successfully. 
-2024-10-08 13:33:35.0408 Debug Player info and transaction data reset. 
-2024-10-08 13:33:41.6677 Debug Player info and transaction data reset. 
-2024-10-08 13:33:44.2579 Debug Player info and transaction data reset. 
-2024-10-08 13:33:44.2579 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:33:44.2579 Info Decryption started. 
-2024-10-08 13:33:44.2579 Info Data decrypted successfully. 
-2024-10-08 13:33:44.3098 Info Decryption started. 
-2024-10-08 13:33:44.3108 Info Data decrypted successfully. 
-2024-10-08 13:33:44.3328 Info Successfully retrieved player data for PlayerID from printedTransTable: 10001. Transaction count: 6 
-2024-10-08 13:33:50.6589 Info Decryption started. 
-2024-10-08 13:33:50.6589 Info Data decrypted successfully. 
-2024-10-08 13:34:14.5443 Info Decryption started. 
-2024-10-08 13:34:14.5443 Info Data decrypted successfully. 
-2024-10-08 13:36:45.5514 Info Function class initialized successfully. 
-2024-10-08 13:36:45.7654 Info TableTransactions form initialized. 
-2024-10-08 13:36:46.6581 Debug Player info and transaction data reset. 
-2024-10-08 13:36:46.6581 Info TableTransactions form loaded. 
-2024-10-08 13:37:00.5927 Info Function class initialized successfully. 
-2024-10-08 13:37:00.8656 Info TableTransactions form initialized. 
-2024-10-08 13:37:01.5724 Debug Player info and transaction data reset. 
-2024-10-08 13:37:01.5724 Info TableTransactions form loaded. 
-2024-10-08 13:37:04.3155 Debug Player info and transaction data reset. 
-2024-10-08 13:37:04.3155 Info Fetching player information for PlayerID: 10001 
-2024-10-08 13:37:04.3155 Info Decryption started. 
-2024-10-08 13:37:04.3155 Info Data decrypted successfully. 
-2024-10-08 13:37:04.4145 Info Decryption started. 
-2024-10-08 13:37:04.4145 Info Data decrypted successfully. 
-2024-10-08 13:37:04.4245 Info Successfully retrieved player data for PlayerID from printedTransTable: 10001. Transaction count: 6 
-2024-10-08 14:54:46.1212 Info Function class initialized successfully. 
-2024-10-08 14:54:46.4241 Info TableTransactions form initialized. 
-2024-10-08 14:54:48.0875 Debug Player info and transaction data reset. 
-2024-10-08 14:54:48.0895 Info TableTransactions form loaded. 
-2024-10-08 14:54:51.5305 Debug Player info and transaction data reset. 
-2024-10-08 14:54:51.5305 Info Fetching player information for PlayerID: 889851 
-2024-10-08 14:54:51.5305 Info Decryption started. 
-2024-10-08 14:54:51.5455 Info Data decrypted successfully. 
-2024-10-08 14:54:51.6954 Info Decryption started. 
-2024-10-08 14:54:51.6954 Info Data decrypted successfully. 
-2024-10-08 14:54:51.7144 Info Successfully retrieved player data for PlayerID from printedTransTable: 889851. Transaction count: 10 
-2024-10-08 14:54:53.3889 Info Decryption started. 
-2024-10-08 14:54:53.3889 Info Data decrypted successfully. 
-2024-10-08 14:54:56.6408 Info Decryption started. 
-2024-10-08 14:54:56.6408 Info Data decrypted successfully. 
-2024-10-08 14:54:57.7075 Debug Player info and transaction data reset. 
-2024-10-08 14:55:01.2654 Debug Player info and transaction data reset. 
-2024-10-08 14:55:01.2654 Info Fetching player information for PlayerID: 10001 
-2024-10-08 14:55:01.2654 Info Decryption started. 
-2024-10-08 14:55:01.2654 Info Data decrypted successfully. 
-2024-10-08 14:55:01.3234 Info Decryption started. 
-2024-10-08 14:55:01.3234 Info Data decrypted successfully. 
-2024-10-08 14:55:01.3474 Info Successfully retrieved player data for PlayerID from printedTransTable: 10001. Transaction count: 6 
-2024-10-08 14:55:03.3387 Info Decryption started. 
-2024-10-08 14:55:03.3387 Info Data decrypted successfully. 
-2024-10-08 14:55:06.9526 Info Decryption started. 
-2024-10-08 14:55:06.9526 Info Data decrypted successfully. 
-2024-10-08 14:55:47.7028 Debug Player info and transaction data reset. 
-2024-10-08 14:55:47.7028 Info Fetching player information for PlayerID: 10001 
-2024-10-08 14:55:47.7028 Info Decryption started. 
-2024-10-08 14:55:47.7028 Info Data decrypted successfully. 
-2024-10-08 14:55:47.7547 Info Decryption started. 
-2024-10-08 14:55:47.7547 Info Data decrypted successfully. 
-2024-10-08 14:55:47.7707 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:55:47.8157 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 14:55:49.2043 Info Decryption started. 
-2024-10-08 14:55:49.2043 Info Data decrypted successfully. 
-2024-10-08 14:55:52.8881 Debug Player info and transaction data reset. 
-2024-10-08 14:55:56.1001 Debug Player info and transaction data reset. 
-2024-10-08 14:55:56.1001 Info Fetching player information for PlayerID: 889851 
-2024-10-08 14:55:56.1001 Info Decryption started. 
-2024-10-08 14:55:56.1001 Info Data decrypted successfully. 
-2024-10-08 14:55:56.1581 Info Decryption started. 
-2024-10-08 14:55:56.1581 Info Data decrypted successfully. 
-2024-10-08 14:55:56.1851 Info Successfully retrieved player data for PlayerID from printedTransTable: 889851. Transaction count: 10 
-2024-10-08 14:56:00.2988 Debug Player info and transaction data reset. 
-2024-10-08 14:56:03.5537 Debug Player info and transaction data reset. 
-2024-10-08 14:56:03.5537 Info Fetching player information for PlayerID: 10001 
-2024-10-08 14:56:03.5537 Info Decryption started. 
-2024-10-08 14:56:03.5537 Info Data decrypted successfully. 
-2024-10-08 14:56:03.6047 Info Decryption started. 
-2024-10-08 14:56:03.6047 Info Data decrypted successfully. 
-2024-10-08 14:56:03.6227 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:56:03.6357 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
-2024-10-08 14:56:04.3085 Info Decryption started. 
-2024-10-08 14:56:04.3085 Info Data decrypted successfully. 
-2024-10-08 14:56:05.6651 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:56:06.4458 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:56:07.2556 Info Decryption started. 
-2024-10-08 14:56:07.2556 Info Data decrypted successfully. 
-2024-10-08 14:56:07.3795 Info Rendering report for printing. 
-2024-10-08 14:56:08.2512 Info Report rendered successfully. 
-2024-10-08 14:56:08.6051 Info Printing initiated. 
-2024-10-08 14:56:08.6051 Info Print initiated for selected rows, copy 1. 
-2024-10-08 14:56:08.6051 Info Rendering report for printing. 
-2024-10-08 14:56:08.7611 Info Report rendered successfully. 
-2024-10-08 14:56:09.2319 Info Printing initiated. 
-2024-10-08 14:56:09.2319 Info Print initiated for selected rows, copy 2. 
-2024-10-08 14:56:09.2319 Info Decryption started. 
-2024-10-08 14:56:09.2319 Info Data decrypted successfully. 
-2024-10-08 14:56:09.3079 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:56:12.6249 Info Decryption started. 
-2024-10-08 14:56:12.6249 Info Data decrypted successfully. 
-2024-10-08 14:56:15.5769 Info Decryption started. 
-2024-10-08 14:56:15.5769 Info Data decrypted successfully. 
-2024-10-08 14:56:28.5559 Debug Player info and transaction data reset. 
-2024-10-08 14:56:28.5559 Info Fetching player information for PlayerID: 10001 
-2024-10-08 14:56:28.5559 Info Decryption started. 
-2024-10-08 14:56:28.5568 Info Data decrypted successfully. 
-2024-10-08 14:56:28.6188 Info Decryption started. 
-2024-10-08 14:56:28.6188 Info Data decrypted successfully. 
-2024-10-08 14:56:28.6328 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:56:28.6458 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 5 
-2024-10-08 14:56:31.8738 Info Decryption started. 
-2024-10-08 14:56:31.8738 Info Data decrypted successfully. 
-2024-10-08 14:56:35.1987 Info Decryption started. 
-2024-10-08 14:56:35.1987 Info Data decrypted successfully. 
-2024-10-08 14:56:35.1987 Info Rendering report for printing. 
-2024-10-08 14:56:35.3007 Info Report rendered successfully. 
-2024-10-08 14:56:35.6116 Info Printing initiated. 
-2024-10-08 14:56:35.6116 Info Print initiated for selected rows, copy 1. 
-2024-10-08 14:56:35.6116 Info Rendering report for printing. 
-2024-10-08 14:56:35.8015 Info Report rendered successfully. 
-2024-10-08 14:56:36.2284 Info Printing initiated. 
-2024-10-08 14:56:36.2284 Info Print initiated for selected rows, copy 2. 
-2024-10-08 14:57:12.8389 Debug Player info and transaction data reset. 
-2024-10-08 14:57:12.8389 Info Fetching player information for PlayerID: 889851 
-2024-10-08 14:57:12.8389 Info Decryption started. 
-2024-10-08 14:57:12.8389 Info Data decrypted successfully. 
-2024-10-08 14:57:12.9058 Info Decryption started. 
-2024-10-08 14:57:12.9058 Info Data decrypted successfully. 
-2024-10-08 14:57:12.9398 Info Successfully retrieved player data for PlayerID from printedTransTable: 889851. Transaction count: 10 
-2024-10-08 14:57:14.7792 Info Decryption started. 
-2024-10-08 14:57:14.7792 Info Data decrypted successfully. 
-2024-10-08 14:57:21.6621 Info Decryption started. 
-2024-10-08 14:57:21.6621 Info Data decrypted successfully. 
-2024-10-08 14:57:21.6671 Info Rendering report for printing. 
-2024-10-08 14:57:21.7590 Info Report rendered successfully. 
-2024-10-08 14:57:22.0949 Info Printing initiated. 
-2024-10-08 14:57:22.0949 Info Print initiated for selected rows, copy 1. 
-2024-10-08 14:57:22.0949 Info Rendering report for printing. 
-2024-10-08 14:57:22.2339 Info Report rendered successfully. 
-2024-10-08 14:57:22.6038 Info Printing initiated. 
-2024-10-08 14:57:22.6038 Info Print initiated for selected rows, copy 2. 
-2024-10-08 14:57:30.4913 Debug Player info and transaction data reset. 
-2024-10-08 14:57:36.6353 Debug Player info and transaction data reset. 
-2024-10-08 14:57:36.6353 Info Fetching player information for PlayerID: 10001 
-2024-10-08 14:57:36.6353 Info Decryption started. 
-2024-10-08 14:57:36.6353 Info Data decrypted successfully. 
-2024-10-08 14:57:36.6903 Info Decryption started. 
-2024-10-08 14:57:36.6903 Info Data decrypted successfully. 
-2024-10-08 14:57:36.7143 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:57:36.7333 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 5 
-2024-10-08 14:57:38.9996 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:57:40.0483 Info Decryption started. 
-2024-10-08 14:57:40.0483 Info Data decrypted successfully. 
-2024-10-08 14:57:40.0483 Info Rendering report for printing. 
-2024-10-08 14:57:40.2102 Info Report rendered successfully. 
-2024-10-08 14:57:40.5321 Info Printing initiated. 
-2024-10-08 14:57:40.5321 Info Print initiated for selected rows, copy 1. 
-2024-10-08 14:57:40.5321 Info Rendering report for printing. 
-2024-10-08 14:57:40.7390 Info Report rendered successfully. 
-2024-10-08 14:57:41.1799 Info Printing initiated. 
-2024-10-08 14:57:41.1799 Info Print initiated for selected rows, copy 2. 
-2024-10-08 14:57:41.1799 Info Decryption started. 
-2024-10-08 14:57:41.1819 Info Data decrypted successfully. 
-2024-10-08 14:57:41.2819 Info Displayed information for PlayerID: 10001 
-2024-10-08 14:57:52.7513 Debug Player info and transaction data reset. 
-2024-10-08 14:58:26.1650 Info Function class initialized successfully. 
-2024-10-08 14:58:26.4329 Info TableTransactions form initialized. 
-2024-10-08 15:02:21.0992 Debug Player info and transaction data reset. 
-2024-10-08 15:02:21.0992 Info TableTransactions form loaded. 
-2024-10-08 15:02:24.0863 Debug Player info and transaction data reset. 
-2024-10-08 15:02:24.0863 Info Fetching player information for PlayerID: 10001 
-2024-10-08 15:02:24.0863 Info Decryption started. 
-2024-10-08 15:02:24.0893 Info Data decrypted successfully. 
-2024-10-08 15:02:24.1823 Info Decryption started. 
-2024-10-08 15:02:24.1833 Info Data decrypted successfully. 
-2024-10-08 15:02:24.2012 Info Displayed information for PlayerID: 10001 
-2024-10-08 15:02:24.2152 Info Displayed information for PlayerID: 10001 
-2024-10-08 15:02:24.2642 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 4 
-2024-10-08 15:02:25.4768 Info Decryption started. 
-2024-10-08 15:02:25.4768 Info Data decrypted successfully. 
-2024-10-08 15:02:27.0413 Info Decryption started. 
-2024-10-08 15:02:27.0423 Info Data decrypted successfully. 
-2024-10-08 15:02:36.2276 Debug Player info and transaction data reset. 
-2024-10-08 15:02:36.2276 Info Fetching player information for PlayerID: 889851 
-2024-10-08 15:02:36.2276 Info Decryption started. 
-2024-10-08 15:02:36.2276 Info Data decrypted successfully. 
-2024-10-08 15:02:36.2976 Info Decryption started. 
-2024-10-08 15:02:36.2976 Info Data decrypted successfully. 
-2024-10-08 15:02:36.3315 Info Successfully retrieved player data for PlayerID from printedTransTable: 889851. Transaction count: 10 
-2024-10-08 15:02:37.4942 Info Decryption started. 
-2024-10-08 15:02:37.4942 Info Data decrypted successfully. 
-2024-10-08 15:02:39.1107 Debug Player info and transaction data reset. 
-2024-10-08 15:02:43.3803 Debug Player info and transaction data reset. 
-2024-10-08 15:02:43.3803 Info Fetching player information for PlayerID: 10001 
-2024-10-08 15:02:43.3803 Info Decryption started. 
-2024-10-08 15:02:43.3803 Info Data decrypted successfully. 
-2024-10-08 15:02:43.4343 Info Decryption started. 
-2024-10-08 15:02:43.4343 Info Data decrypted successfully. 
-2024-10-08 15:02:43.4553 Info Displayed information for PlayerID: 10001 
-2024-10-08 15:02:43.4703 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 4 
-2024-10-08 15:02:44.1521 Debug Player info and transaction data reset. 
+2024-10-20 23:08:34.1139 Info Function class initialized successfully. 
+2024-10-20 23:08:34.4868 Info TableTransactions form initialized. 
+2024-10-20 23:08:37.7092 Debug Player info and transaction data reset. 
+2024-10-20 23:08:37.7092 Info TableTransactions form loaded. 
+2024-10-20 23:08:39.7026 Debug Player info and transaction data reset. 
+2024-10-20 23:08:39.7026 Info Fetching player information for PlayerID: 889851 
+2024-10-20 23:08:39.7026 Info Decryption started. 
+2024-10-20 23:08:39.7227 Info Data decrypted successfully. 
+2024-10-20 23:08:39.8973 Info Decryption started. 
+2024-10-20 23:08:39.8973 Info Data decrypted successfully. 
+2024-10-20 23:08:39.9163 Info Successfully retrieved player data for PlayerID from printedTransTable: 889851. Transaction count: 10 
+2024-10-20 23:09:42.0234 Debug Player info and transaction data reset. 
+2024-10-20 23:09:42.0234 Info Fetching player information for PlayerID: 10001 
+2024-10-20 23:09:42.0234 Info Decryption started. 
+2024-10-20 23:09:42.0234 Info Data decrypted successfully. 
+2024-10-20 23:09:42.0723 Info Decryption started. 
+2024-10-20 23:09:42.0723 Info Data decrypted successfully. 
+2024-10-20 23:09:42.0919 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:09:42.1436 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 6 
+2024-10-20 23:09:45.0737 Info Decryption started. 
+2024-10-20 23:09:45.0747 Info Data decrypted successfully. 
+2024-10-20 23:09:46.9107 Info Rendering report for printing. 
+2024-10-20 23:09:51.0824 Info Report rendered successfully. 
+2024-10-20 23:09:51.5240 Info Printing initiated. 
+2024-10-20 23:09:51.5240 Info Print initiated for selected rows, copy 1. 
+2024-10-20 23:09:51.5240 Info Decryption started. 
+2024-10-20 23:09:51.5240 Info Data decrypted successfully. 
+2024-10-20 23:09:51.5931 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:25.3666 Info Function class initialized successfully. 
+2024-10-20 23:12:25.5595 Info TableTransactions form initialized. 
+2024-10-20 23:12:29.2469 Debug Player info and transaction data reset. 
+2024-10-20 23:12:29.2469 Info TableTransactions form loaded. 
+2024-10-20 23:12:32.6433 Debug Player info and transaction data reset. 
+2024-10-20 23:12:32.6433 Info Fetching player information for PlayerID: 10001 
+2024-10-20 23:12:32.6433 Info Decryption started. 
+2024-10-20 23:12:32.6433 Info Data decrypted successfully. 
+2024-10-20 23:12:32.7522 Info Decryption started. 
+2024-10-20 23:12:32.7522 Info Data decrypted successfully. 
+2024-10-20 23:12:32.7778 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:32.7998 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:32.8433 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 5 
+2024-10-20 23:12:34.3952 Info Decryption started. 
+2024-10-20 23:12:34.3952 Info Data decrypted successfully. 
+2024-10-20 23:12:34.4642 Info Rendering report for printing. 
+2024-10-20 23:12:35.2716 Info Report rendered successfully. 
+2024-10-20 23:12:35.6457 Info Printing initiated. 
+2024-10-20 23:12:35.6457 Info Print initiated for selected rows, copy 1. 
+2024-10-20 23:12:35.6457 Info Decryption started. 
+2024-10-20 23:12:35.6457 Info Data decrypted successfully. 
+2024-10-20 23:12:35.8077 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:44.4739 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:51.6824 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:52.1790 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:52.5611 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:12:55.9000 Info Decryption started. 
+2024-10-20 23:12:55.9000 Info Data decrypted successfully. 
+2024-10-20 23:12:55.9090 Info Rendering report for printing. 
+2024-10-20 23:12:56.0094 Info Report rendered successfully. 
+2024-10-20 23:12:56.3651 Info Printing initiated. 
+2024-10-20 23:12:56.3651 Info Print initiated for selected rows, copy 1. 
+2024-10-20 23:12:56.3651 Info Decryption started. 
+2024-10-20 23:12:56.3651 Info Data decrypted successfully. 
+2024-10-20 23:12:56.5190 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:16:34.0572 Info Function class initialized successfully. 
+2024-10-20 23:16:34.2971 Info TableTransactions form initialized. 
+2024-10-20 23:16:35.2777 Debug Player info and transaction data reset. 
+2024-10-20 23:16:35.2777 Info TableTransactions form loaded. 
+2024-10-20 23:16:39.0752 Debug Player info and transaction data reset. 
+2024-10-20 23:16:39.0752 Info Fetching player information for PlayerID: 10001 
+2024-10-20 23:16:39.0752 Info Decryption started. 
+2024-10-20 23:16:39.0752 Info Data decrypted successfully. 
+2024-10-20 23:16:39.1791 Info Decryption started. 
+2024-10-20 23:16:39.1791 Info Data decrypted successfully. 
+2024-10-20 23:16:39.1991 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:16:39.2171 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:16:39.2391 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 3 
+2024-10-20 23:16:40.1514 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:16:41.1766 Info Decryption started. 
+2024-10-20 23:16:41.1766 Info Data decrypted successfully. 
+2024-10-20 23:16:41.2476 Info Rendering report for printing. 
+2024-10-20 23:16:42.2449 Info Report rendered successfully. 
+2024-10-20 23:16:42.6878 Info Printing initiated. 
+2024-10-20 23:16:42.6878 Info Print initiated for selected rows, copy 1. 
+2024-10-20 23:16:42.6878 Info Decryption started. 
+2024-10-20 23:16:42.6878 Info Data decrypted successfully. 
+2024-10-20 23:16:42.7847 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:17:10.1206 Info Function class initialized successfully. 
+2024-10-20 23:17:10.2947 Info TableTransactions form initialized. 
+2024-10-20 23:17:19.4588 Info Function class initialized successfully. 
+2024-10-20 23:17:19.6426 Info TableTransactions form initialized. 
+2024-10-20 23:17:25.2787 Debug Player info and transaction data reset. 
+2024-10-20 23:17:25.2787 Info TableTransactions form loaded. 
+2024-10-20 23:17:29.7342 Debug Player info and transaction data reset. 
+2024-10-20 23:17:29.7342 Info Fetching player information for PlayerID: 10001 
+2024-10-20 23:17:29.7342 Info Decryption started. 
+2024-10-20 23:17:29.7342 Info Data decrypted successfully. 
+2024-10-20 23:17:29.8309 Info Decryption started. 
+2024-10-20 23:17:29.8309 Info Data decrypted successfully. 
+2024-10-20 23:17:29.8598 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:17:29.8799 Info Displayed information for PlayerID: 10001 
+2024-10-20 23:17:29.9139 Info Successfully retrieved player data for PlayerID: 10001. Transaction count: 2 
+2024-10-20 23:17:32.4341 Info Decryption started. 
+2024-10-20 23:17:32.4341 Info Data decrypted successfully. 
+2024-10-20 23:17:32.5004 Info Rendering report for printing. 
+2024-10-20 23:17:33.2366 Info Report rendered successfully. 
+2024-10-20 23:17:33.5815 Info Printing initiated. 
+2024-10-20 23:17:33.5815 Info Print initiated for selected rows, copy 1. 
+2024-10-20 23:17:33.5815 Info Rendering report for printing. 
+2024-10-20 23:17:33.7435 Info Report rendered successfully. 
+2024-10-20 23:17:34.1024 Info Printing initiated. 
+2024-10-20 23:17:34.1024 Info Print initiated for selected rows, copy 2. 
+2024-10-20 23:17:34.1064 Info Rendering report for printing. 
+2024-10-20 23:17:34.2333 Info Report rendered successfully. 
+2024-10-20 23:17:34.6292 Info Printing initiated. 
+2024-10-20 23:17:34.6292 Info Print initiated for selected rows, copy 3. 
+2024-10-20 23:17:34.6292 Info Decryption started. 
+2024-10-20 23:17:34.6292 Info Data decrypted successfully. 
+2024-10-20 23:17:34.7146 Info Displayed information for PlayerID: 10001 
