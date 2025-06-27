@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|c:\\users\\hatt.nguyen.htpvtg\\onedrive - ho tram project company limited\\tabletransactionrolling\\pospatronimage\\foeventticketissuance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\foeventticketissuance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\foeventticketissuance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\foeventticketissuance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\reports\\foeventticket.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
       "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\reports\\foeventticket.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|c:\\users\\hatt.nguyen.htpvtg\\onedrive - ho tram project company limited\\tabletransactionrolling\\pospatronimage\\support\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\support\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FOEventTicketIssuance||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -34,16 +18,36 @@
       "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\foeventticketissuance.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\foeventticketissuance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\foeventticketissuance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\properties\\settings.settings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\properties\\settings.settings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\foeventticketissuance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\foeventticketissuance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|c:\\users\\hatt.nguyen.htpvtg\\onedrive - ho tram project company limited\\tabletransactionrolling\\pospatronimage\\support\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\support\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\foeventticketissuance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\foeventticketissuance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|solutionrelative:pospatronimage\\frm_small_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F6B7A5A-647B-4A63-8E36-CC90FE15C04F}|POSPatronImage\\FOEventTicketIssuance.csproj|C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\pospatronimage\\frm_small_icon.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -64,11 +68,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "frm_small_icon.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\frm_small_icon.cs",
               "RelativeDocumentMoniker": "POSPatronImage\\frm_small_icon.cs",
@@ -76,8 +80,7 @@
               "RelativeToolTip": "POSPatronImage\\frm_small_icon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T03:46:32.532Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -85,7 +88,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Support\\Function.cs",
+              "RelativeDocumentMoniker": "POSPatronImage\\Support\\Function.cs",
+              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Support\\Function.cs",
+              "RelativeToolTip": "POSPatronImage\\Support\\Function.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAApwCAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:44:00.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FOEventTicketIssuance.cs",
+              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.cs",
+              "RelativeDocumentMoniker": "POSPatronImage\\FOEventTicketIssuance.cs",
+              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.cs",
+              "RelativeToolTip": "POSPatronImage\\FOEventTicketIssuance.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwEsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:49:21.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "POSPatronImage\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Properties\\Settings.settings",
+              "RelativeToolTip": "POSPatronImage\\Properties\\Settings.settings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-06-27T02:44:56.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FOEventTicket.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Reports\\FOEventTicket.rdlc",
+              "RelativeDocumentMoniker": "POSPatronImage\\Reports\\FOEventTicket.rdlc",
+              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Reports\\FOEventTicket.rdlc [Design]",
+              "RelativeToolTip": "POSPatronImage\\Reports\\FOEventTicket.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-06-27T02:41:33.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FOEventTicketIssuance.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.cs",
               "RelativeDocumentMoniker": "POSPatronImage\\FOEventTicketIssuance.cs",
@@ -97,70 +151,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Function.cs",
-              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Support\\Function.cs",
-              "RelativeDocumentMoniker": "POSPatronImage\\Support\\Function.cs",
-              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Support\\Function.cs",
-              "RelativeToolTip": "POSPatronImage\\Support\\Function.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T04:44:00.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\packages.config",
-              "RelativeDocumentMoniker": "POSPatronImage\\packages.config",
-              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\packages.config",
-              "RelativeToolTip": "POSPatronImage\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "DocumentIndex": 8,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\app.config",
+              "RelativeDocumentMoniker": "POSPatronImage\\app.config",
+              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\app.config",
+              "RelativeToolTip": "POSPatronImage\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-26T06:32:48.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FOEventTicketIssuance.cs",
-              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.cs",
-              "RelativeDocumentMoniker": "POSPatronImage\\FOEventTicketIssuance.cs",
-              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.cs",
-              "RelativeToolTip": "POSPatronImage\\FOEventTicketIssuance.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAQwIkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T07:38:19.023Z",
+              "WhenOpened": "2025-06-24T07:24:19.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FOEventTicket.rdlc [Design]",
-              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Reports\\FOEventTicket.rdlc",
-              "RelativeDocumentMoniker": "POSPatronImage\\Reports\\FOEventTicket.rdlc",
-              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\Reports\\FOEventTicket.rdlc [Design]",
-              "RelativeToolTip": "POSPatronImage\\Reports\\FOEventTicket.rdlc [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2025-06-25T04:49:09.751Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FOEventTicketIssuance.resx",
-              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.resx",
-              "RelativeDocumentMoniker": "POSPatronImage\\FOEventTicketIssuance.resx",
-              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.resx",
-              "RelativeToolTip": "POSPatronImage\\FOEventTicketIssuance.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-26T06:07:11.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FOEventTicketIssuance",
               "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.csproj",
               "RelativeDocumentMoniker": "POSPatronImage\\FOEventTicketIssuance.csproj",
@@ -172,20 +176,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "app.config",
-              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\app.config",
-              "RelativeDocumentMoniker": "POSPatronImage\\app.config",
-              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\app.config",
-              "RelativeToolTip": "POSPatronImage\\app.config",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwC8AAABDAAAA",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\packages.config",
+              "RelativeDocumentMoniker": "POSPatronImage\\packages.config",
+              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\packages.config",
+              "RelativeToolTip": "POSPatronImage\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-24T07:24:19.217Z",
+              "WhenOpened": "2025-06-26T06:32:48.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FOEventTicketIssuance.resx",
+              "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.resx",
+              "RelativeDocumentMoniker": "POSPatronImage\\FOEventTicketIssuance.resx",
+              "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.resx",
+              "RelativeToolTip": "POSPatronImage\\FOEventTicketIssuance.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-26T06:07:11.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "frm_small_icon.cs",
               "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\frm_small_icon.cs",
               "RelativeDocumentMoniker": "POSPatronImage\\frm_small_icon.cs",
@@ -193,37 +208,35 @@
               "RelativeToolTip": "POSPatronImage\\frm_small_icon.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAtwCgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T05:55:12.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T05:55:12.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "FOEventTicketIssuance.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.Designer.cs",
               "RelativeDocumentMoniker": "POSPatronImage\\FOEventTicketIssuance.Designer.cs",
               "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\FOEventTicketIssuance.Designer.cs",
               "RelativeToolTip": "POSPatronImage\\FOEventTicketIssuance.Designer.cs",
-              "ViewState": "AQIAAAABAAAAAAAAAAAgwAoAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T08:33:05.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "frm_small_icon.resx",
               "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\frm_small_icon.resx",
               "RelativeDocumentMoniker": "POSPatronImage\\frm_small_icon.resx",
               "ToolTip": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\frm_small_icon.resx",
               "RelativeToolTip": "POSPatronImage\\frm_small_icon.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-26T05:54:35.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T05:54:35.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "frm_small_icon.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hatt.nguyen.HTPVTG\\OneDrive - HO TRAM PROJECT COMPANY LIMITED\\TableTransactionRolling\\POSPatronImage\\frm_small_icon.Designer.cs",
               "RelativeDocumentMoniker": "POSPatronImage\\frm_small_icon.Designer.cs",
@@ -231,8 +244,7 @@
               "RelativeToolTip": "POSPatronImage\\frm_small_icon.Designer.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAEwEUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T05:54:17.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T05:54:17.738Z"
             }
           ]
         }
